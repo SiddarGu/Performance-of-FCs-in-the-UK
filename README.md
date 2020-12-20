@@ -552,7 +552,7 @@ teams_db
 
 
 
-### For every year between 2010 and 2019 (inclusive), we record the team standing and calculate the win rate and goal ratio. Note that we dropped rows with games = 0  or missing values (NaN). We also need to calculate the win rate and the goal ratio for each team as the match data is recorded. We can use the following formula to calculate the win rate: <br /> winrate = \frac{wins}{games} (the greater the better), and the goal_ratio using: <br /> goal ratio = \frac{goals}{opponent\:goals} (the greater the better) <br /> 
+### For every year between 2010 and 2019 (inclusive), we record the team standing and calculate the win rate and goal ratio. Note that we dropped rows with games = 0  or missing values (NaN). We also need to calculate the win rate and the goal ratio for each team as the match data is recorded. We can use the following formula to calculate the win rate: <br /> winrate = wins / games (the greater the better), and the goal_ratio using: <br /> goal ratio = goals / opponent goals (the greater the better) <br /> 
 
 
 ```python
