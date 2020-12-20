@@ -1,0 +1,2037 @@
+Round,Date,Team 1,FT,Team 2
+1,Sat Aug 16 2014,Manchester United FC,1-2,Swansea City FC
+1,Sat Aug 16 2014,West Bromwich Albion FC,2-2,Sunderland AFC
+1,Sat Aug 16 2014,Leicester City FC,2-2,Everton FC
+1,Sat Aug 16 2014,Stoke City FC,0-1,Aston Villa FC
+1,Sat Aug 16 2014,Queens Park Rangers FC,0-1,Hull City AFC
+1,Sat Aug 16 2014,West Ham United FC,0-1,Tottenham Hotspur FC
+1,Sat Aug 16 2014,Arsenal FC,2-1,Crystal Palace FC
+1,Sun Aug 17 2014,Liverpool FC,2-1,Southampton FC
+1,Sun Aug 17 2014,Newcastle United FC,0-2,Manchester City FC
+1,Mon Aug 18 2014,Burnley FC,1-3,Chelsea FC
+2,Sat Aug 23 2014,Aston Villa FC,0-0,Newcastle United FC
+2,Sat Aug 23 2014,Crystal Palace FC,1-3,West Ham United FC
+2,Sat Aug 23 2014,Swansea City FC,1-0,Burnley FC
+2,Sat Aug 23 2014,Chelsea FC,2-0,Leicester City FC
+2,Sat Aug 23 2014,Southampton FC,0-0,West Bromwich Albion FC
+2,Sat Aug 23 2014,Everton FC,2-2,Arsenal FC
+2,Sun Aug 24 2014,Tottenham Hotspur FC,4-0,Queens Park Rangers FC
+2,Sun Aug 24 2014,Hull City AFC,1-1,Stoke City FC
+2,Sun Aug 24 2014,Sunderland AFC,1-1,Manchester United FC
+2,Mon Aug 25 2014,Manchester City FC,3-1,Liverpool FC
+3,Sat Aug 30 2014,Burnley FC,0-0,Manchester United FC
+3,Sat Aug 30 2014,Queens Park Rangers FC,1-0,Sunderland AFC
+3,Sat Aug 30 2014,Swansea City FC,3-0,West Bromwich Albion FC
+3,Sat Aug 30 2014,Manchester City FC,0-1,Stoke City FC
+3,Sat Aug 30 2014,Newcastle United FC,3-3,Crystal Palace FC
+3,Sat Aug 30 2014,West Ham United FC,1-3,Southampton FC
+3,Sat Aug 30 2014,Everton FC,3-6,Chelsea FC
+3,Sun Aug 31 2014,Tottenham Hotspur FC,0-3,Liverpool FC
+3,Sun Aug 31 2014,Aston Villa FC,2-1,Hull City AFC
+3,Sun Aug 31 2014,Leicester City FC,1-1,Arsenal FC
+4,Sat Sep 13 2014,Arsenal FC,2-2,Manchester City FC
+4,Sat Sep 13 2014,Sunderland AFC,2-2,Tottenham Hotspur FC
+4,Sat Sep 13 2014,Southampton FC,4-0,Newcastle United FC
+4,Sat Sep 13 2014,Stoke City FC,0-1,Leicester City FC
+4,Sat Sep 13 2014,Chelsea FC,4-2,Swansea City FC
+4,Sat Sep 13 2014,West Bromwich Albion FC,0-2,Everton FC
+4,Sat Sep 13 2014,Crystal Palace FC,0-0,Burnley FC
+4,Sat Sep 13 2014,Liverpool FC,0-1,Aston Villa FC
+4,Sun Sep 14 2014,Manchester United FC,4-0,Queens Park Rangers FC
+4,Mon Sep 15 2014,Hull City AFC,2-2,West Ham United FC
+5,Sat Sep 20 2014,Queens Park Rangers FC,2-2,Stoke City FC
+5,Sat Sep 20 2014,Swansea City FC,0-1,Southampton FC
+5,Sat Sep 20 2014,Burnley FC,0-0,Sunderland AFC
+5,Sat Sep 20 2014,Aston Villa FC,0-3,Arsenal FC
+5,Sat Sep 20 2014,Newcastle United FC,2-2,Hull City AFC
+5,Sat Sep 20 2014,West Ham United FC,3-1,Liverpool FC
+5,Sun Sep 21 2014,Leicester City FC,5-3,Manchester United FC
+5,Sun Sep 21 2014,Tottenham Hotspur FC,0-1,West Bromwich Albion FC
+5,Sun Sep 21 2014,Manchester City FC,1-1,Chelsea FC
+5,Sun Sep 21 2014,Everton FC,2-3,Crystal Palace FC
+6,Sat Sep 27 2014,Liverpool FC,1-1,Everton FC
+6,Sat Sep 27 2014,Hull City AFC,2-4,Manchester City FC
+6,Sat Sep 27 2014,Southampton FC,2-1,Queens Park Rangers FC
+6,Sat Sep 27 2014,Chelsea FC,3-0,Aston Villa FC
+6,Sat Sep 27 2014,Crystal Palace FC,2-0,Leicester City FC
+6,Sat Sep 27 2014,Sunderland AFC,0-0,Swansea City FC
+6,Sat Sep 27 2014,Manchester United FC,2-1,West Ham United FC
+6,Sat Sep 27 2014,Arsenal FC,1-1,Tottenham Hotspur FC
+6,Sun Sep 28 2014,West Bromwich Albion FC,4-0,Burnley FC
+6,Mon Sep 29 2014,Stoke City FC,1-0,Newcastle United FC
+7,Sat Oct 4 2014,Hull City AFC,2-0,Crystal Palace FC
+7,Sat Oct 4 2014,Swansea City FC,2-2,Newcastle United FC
+7,Sat Oct 4 2014,Liverpool FC,2-1,West Bromwich Albion FC
+7,Sat Oct 4 2014,Sunderland AFC,3-1,Stoke City FC
+7,Sat Oct 4 2014,Leicester City FC,2-2,Burnley FC
+7,Sat Oct 4 2014,Aston Villa FC,0-2,Manchester City FC
+7,Sun Oct 5 2014,Manchester United FC,2-1,Everton FC
+7,Sun Oct 5 2014,Tottenham Hotspur FC,1-0,Southampton FC
+7,Sun Oct 5 2014,Chelsea FC,2-0,Arsenal FC
+7,Sun Oct 5 2014,West Ham United FC,2-0,Queens Park Rangers FC
+8,Sat Oct 18 2014,Manchester City FC,4-1,Tottenham Hotspur FC
+8,Sat Oct 18 2014,Arsenal FC,2-2,Hull City AFC
+8,Sat Oct 18 2014,Burnley FC,1-3,West Ham United FC
+8,Sat Oct 18 2014,Everton FC,3-0,Aston Villa FC
+8,Sat Oct 18 2014,Crystal Palace FC,1-2,Chelsea FC
+8,Sat Oct 18 2014,Southampton FC,8-0,Sunderland AFC
+8,Sat Oct 18 2014,Newcastle United FC,1-0,Leicester City FC
+8,Sun Oct 19 2014,Queens Park Rangers FC,2-3,Liverpool FC
+8,Sun Oct 19 2014,Stoke City FC,2-1,Swansea City FC
+8,Mon Oct 20 2014,West Bromwich Albion FC,2-2,Manchester United FC
+9,Sat Oct 25 2014,West Ham United FC,2-1,Manchester City FC
+9,Sat Oct 25 2014,Southampton FC,1-0,Stoke City FC
+9,Sat Oct 25 2014,Liverpool FC,0-0,Hull City AFC
+9,Sat Oct 25 2014,Sunderland AFC,0-2,Arsenal FC
+9,Sat Oct 25 2014,West Bromwich Albion FC,2-2,Crystal Palace FC
+9,Sat Oct 25 2014,Swansea City FC,2-0,Leicester City FC
+9,Sun Oct 26 2014,Burnley FC,1-3,Everton FC
+9,Sun Oct 26 2014,Tottenham Hotspur FC,1-2,Newcastle United FC
+9,Sun Oct 26 2014,Manchester United FC,1-1,Chelsea FC
+9,Mon Oct 27 2014,Queens Park Rangers FC,2-0,Aston Villa FC
+10,Sat Nov 1 2014,Newcastle United FC,1-0,Liverpool FC
+10,Sat Nov 1 2014,Leicester City FC,0-1,West Bromwich Albion FC
+10,Sat Nov 1 2014,Everton FC,0-0,Swansea City FC
+10,Sat Nov 1 2014,Chelsea FC,2-1,Queens Park Rangers FC
+10,Sat Nov 1 2014,Arsenal FC,3-0,Burnley FC
+10,Sat Nov 1 2014,Hull City AFC,0-1,Southampton FC
+10,Sat Nov 1 2014,Stoke City FC,2-2,West Ham United FC
+10,Sun Nov 2 2014,Manchester City FC,1-0,Manchester United FC
+10,Sun Nov 2 2014,Aston Villa FC,1-2,Tottenham Hotspur FC
+10,Mon Nov 3 2014,Crystal Palace FC,1-3,Sunderland AFC
+11,Sat Nov 8 2014,Liverpool FC,1-2,Chelsea FC
+11,Sat Nov 8 2014,Southampton FC,2-0,Leicester City FC
+11,Sat Nov 8 2014,Manchester United FC,1-0,Crystal Palace FC
+11,Sat Nov 8 2014,West Ham United FC,0-0,Aston Villa FC
+11,Sat Nov 8 2014,Burnley FC,1-0,Hull City AFC
+11,Sat Nov 8 2014,Queens Park Rangers FC,2-2,Manchester City FC
+11,Sun Nov 9 2014,Sunderland AFC,1-1,Everton FC
+11,Sun Nov 9 2014,Tottenham Hotspur FC,1-2,Stoke City FC
+11,Sun Nov 9 2014,West Bromwich Albion FC,0-2,Newcastle United FC
+11,Sun Nov 9 2014,Swansea City FC,2-1,Arsenal FC
+12,Sat Nov 22 2014,Manchester City FC,2-1,Swansea City FC
+12,Sat Nov 22 2014,Everton FC,2-1,West Ham United FC
+12,Sat Nov 22 2014,Stoke City FC,1-2,Burnley FC
+12,Sat Nov 22 2014,Leicester City FC,0-0,Sunderland AFC
+12,Sat Nov 22 2014,Newcastle United FC,1-0,Queens Park Rangers FC
+12,Sat Nov 22 2014,Chelsea FC,2-0,West Bromwich Albion FC
+12,Sat Nov 22 2014,Arsenal FC,1-2,Manchester United FC
+12,Sun Nov 23 2014,Crystal Palace FC,3-1,Liverpool FC
+12,Sun Nov 23 2014,Hull City AFC,1-2,Tottenham Hotspur FC
+12,Mon Nov 24 2014,Aston Villa FC,1-1,Southampton FC
+13,Sat Nov 29 2014,West Bromwich Albion FC,0-1,Arsenal FC
+13,Sat Nov 29 2014,Liverpool FC,1-0,Stoke City FC
+13,Sat Nov 29 2014,Burnley FC,1-1,Aston Villa FC
+13,Sat Nov 29 2014,Swansea City FC,1-1,Crystal Palace FC
+13,Sat Nov 29 2014,Manchester United FC,3-0,Hull City AFC
+13,Sat Nov 29 2014,Queens Park Rangers FC,3-2,Leicester City FC
+13,Sat Nov 29 2014,West Ham United FC,1-0,Newcastle United FC
+13,Sat Nov 29 2014,Sunderland AFC,0-0,Chelsea FC
+13,Sun Nov 30 2014,Southampton FC,0-3,Manchester City FC
+13,Sun Nov 30 2014,Tottenham Hotspur FC,2-1,Everton FC
+14,Tue Dec 2 2014,Leicester City FC,1-3,Liverpool FC
+14,Tue Dec 2 2014,Burnley FC,1-1,Newcastle United FC
+14,Tue Dec 2 2014,Manchester United FC,2-1,Stoke City FC
+14,Tue Dec 2 2014,Swansea City FC,2-0,Queens Park Rangers FC
+14,Tue Dec 2 2014,West Bromwich Albion FC,1-2,West Ham United FC
+14,Tue Dec 2 2014,Crystal Palace FC,0-1,Aston Villa FC
+14,Wed Dec 3 2014,Everton FC,1-1,Hull City AFC
+14,Wed Dec 3 2014,Sunderland AFC,1-4,Manchester City FC
+14,Wed Dec 3 2014,Chelsea FC,3-0,Tottenham Hotspur FC
+14,Wed Dec 3 2014,Arsenal FC,1-0,Southampton FC
+15,Sat Dec 6 2014,Newcastle United FC,2-1,Chelsea FC
+15,Sat Dec 6 2014,Hull City AFC,0-0,West Bromwich Albion FC
+15,Sat Dec 6 2014,Tottenham Hotspur FC,0-0,Crystal Palace FC
+15,Sat Dec 6 2014,Liverpool FC,0-0,Sunderland AFC
+15,Sat Dec 6 2014,Stoke City FC,3-2,Arsenal FC
+15,Sat Dec 6 2014,Queens Park Rangers FC,2-0,Burnley FC
+15,Sat Dec 6 2014,Manchester City FC,1-0,Everton FC
+15,Sun Dec 7 2014,West Ham United FC,3-1,Swansea City FC
+15,Sun Dec 7 2014,Aston Villa FC,2-1,Leicester City FC
+15,Mon Dec 8 2014,Southampton FC,1-2,Manchester United FC
+16,Sat Dec 13 2014,Burnley FC,1-0,Southampton FC
+16,Sat Dec 13 2014,West Bromwich Albion FC,1-0,Aston Villa FC
+16,Sat Dec 13 2014,Chelsea FC,2-0,Hull City AFC
+16,Sat Dec 13 2014,Leicester City FC,0-1,Manchester City FC
+16,Sat Dec 13 2014,Crystal Palace FC,1-1,Stoke City FC
+16,Sat Dec 13 2014,Sunderland AFC,1-1,West Ham United FC
+16,Sat Dec 13 2014,Arsenal FC,4-1,Newcastle United FC
+16,Sun Dec 14 2014,Manchester United FC,3-0,Liverpool FC
+16,Sun Dec 14 2014,Swansea City FC,1-2,Tottenham Hotspur FC
+16,Mon Dec 15 2014,Everton FC,3-1,Queens Park Rangers FC
+17,Sat Dec 20 2014,Manchester City FC,3-0,Crystal Palace FC
+17,Sat Dec 20 2014,Aston Villa FC,1-1,Manchester United FC
+17,Sat Dec 20 2014,Southampton FC,3-0,Everton FC
+17,Sat Dec 20 2014,Hull City AFC,0-1,Swansea City FC
+17,Sat Dec 20 2014,West Ham United FC,2-0,Leicester City FC
+17,Sat Dec 20 2014,Queens Park Rangers FC,3-2,West Bromwich Albion FC
+17,Sat Dec 20 2014,Tottenham Hotspur FC,2-1,Burnley FC
+17,Sun Dec 21 2014,Newcastle United FC,0-1,Sunderland AFC
+17,Sun Dec 21 2014,Liverpool FC,2-2,Arsenal FC
+17,Mon Dec 22 2014,Stoke City FC,0-2,Chelsea FC
+18,Fri Dec 26 2014,Chelsea FC,2-0,West Ham United FC
+18,Fri Dec 26 2014,Burnley FC,0-1,Liverpool FC
+18,Fri Dec 26 2014,Leicester City FC,1-2,Tottenham Hotspur FC
+18,Fri Dec 26 2014,Manchester United FC,3-1,Newcastle United FC
+18,Fri Dec 26 2014,Swansea City FC,1-0,Aston Villa FC
+18,Fri Dec 26 2014,West Bromwich Albion FC,1-3,Manchester City FC
+18,Fri Dec 26 2014,Crystal Palace FC,1-3,Southampton FC
+18,Fri Dec 26 2014,Everton FC,0-1,Stoke City FC
+18,Fri Dec 26 2014,Sunderland AFC,1-3,Hull City AFC
+18,Fri Dec 26 2014,Arsenal FC,2-1,Queens Park Rangers FC
+19,Sun Dec 28 2014,Tottenham Hotspur FC,0-0,Manchester United FC
+19,Sun Dec 28 2014,Southampton FC,1-1,Chelsea FC
+19,Sun Dec 28 2014,West Ham United FC,1-2,Arsenal FC
+19,Sun Dec 28 2014,Manchester City FC,2-2,Burnley FC
+19,Sun Dec 28 2014,Hull City AFC,0-1,Leicester City FC
+19,Sun Dec 28 2014,Aston Villa FC,0-0,Sunderland AFC
+19,Sun Dec 28 2014,Queens Park Rangers FC,0-0,Crystal Palace FC
+19,Sun Dec 28 2014,Stoke City FC,2-0,West Bromwich Albion FC
+19,Sun Dec 28 2014,Newcastle United FC,3-2,Everton FC
+19,Mon Dec 29 2014,Liverpool FC,4-1,Swansea City FC
+20,Thu Jan 1 2015,Stoke City FC,1-1,Manchester United FC
+20,Thu Jan 1 2015,West Ham United FC,1-1,West Bromwich Albion FC
+20,Thu Jan 1 2015,Newcastle United FC,3-3,Burnley FC
+20,Thu Jan 1 2015,Aston Villa FC,0-0,Crystal Palace FC
+20,Thu Jan 1 2015,Liverpool FC,2-2,Leicester City FC
+20,Thu Jan 1 2015,Queens Park Rangers FC,1-1,Swansea City FC
+20,Thu Jan 1 2015,Southampton FC,2-0,Arsenal FC
+20,Thu Jan 1 2015,Hull City AFC,2-0,Everton FC
+20,Thu Jan 1 2015,Manchester City FC,3-2,Sunderland AFC
+20,Thu Jan 1 2015,Tottenham Hotspur FC,5-3,Chelsea FC
+21,Sat Jan 10 2015,Sunderland AFC,0-1,Liverpool FC
+21,Sat Jan 10 2015,Chelsea FC,2-0,Newcastle United FC
+21,Sat Jan 10 2015,Everton FC,1-1,Manchester City FC
+21,Sat Jan 10 2015,Swansea City FC,1-1,West Ham United FC
+21,Sat Jan 10 2015,West Bromwich Albion FC,1-0,Hull City AFC
+21,Sat Jan 10 2015,Burnley FC,2-1,Queens Park Rangers FC
+21,Sat Jan 10 2015,Leicester City FC,1-0,Aston Villa FC
+21,Sat Jan 10 2015,Crystal Palace FC,2-1,Tottenham Hotspur FC
+21,Sun Jan 11 2015,Arsenal FC,3-0,Stoke City FC
+21,Sun Jan 11 2015,Manchester United FC,0-1,Southampton FC
+22,Sat Jan 17 2015,Leicester City FC,0-1,Stoke City FC
+22,Sat Jan 17 2015,Queens Park Rangers FC,0-2,Manchester United FC
+22,Sat Jan 17 2015,Tottenham Hotspur FC,2-1,Sunderland AFC
+22,Sat Jan 17 2015,Burnley FC,2-3,Crystal Palace FC
+22,Sat Jan 17 2015,Swansea City FC,0-5,Chelsea FC
+22,Sat Jan 17 2015,Aston Villa FC,0-2,Liverpool FC
+22,Sat Jan 17 2015,Newcastle United FC,1-2,Southampton FC
+22,Sun Jan 18 2015,West Ham United FC,3-0,Hull City AFC
+22,Sun Jan 18 2015,Manchester City FC,0-2,Arsenal FC
+22,Mon Jan 19 2015,Everton FC,0-0,West Bromwich Albion FC
+23,Sat Jan 31 2015,Hull City AFC,0-3,Newcastle United FC
+23,Sat Jan 31 2015,West Bromwich Albion FC,0-3,Tottenham Hotspur FC
+23,Sat Jan 31 2015,Stoke City FC,3-1,Queens Park Rangers FC
+23,Sat Jan 31 2015,Sunderland AFC,2-0,Burnley FC
+23,Sat Jan 31 2015,Crystal Palace FC,0-1,Everton FC
+23,Sat Jan 31 2015,Manchester United FC,3-1,Leicester City FC
+23,Sat Jan 31 2015,Liverpool FC,2-0,West Ham United FC
+23,Sat Jan 31 2015,Chelsea FC,1-1,Manchester City FC
+23,Sun Feb 1 2015,Arsenal FC,5-0,Aston Villa FC
+23,Sun Feb 1 2015,Southampton FC,0-1,Swansea City FC
+24,Sat Feb 7 2015,Tottenham Hotspur FC,2-1,Arsenal FC
+24,Sat Feb 7 2015,Aston Villa FC,1-2,Chelsea FC
+24,Sat Feb 7 2015,Queens Park Rangers FC,0-1,Southampton FC
+24,Sat Feb 7 2015,Leicester City FC,0-1,Crystal Palace FC
+24,Sat Feb 7 2015,Swansea City FC,1-1,Sunderland AFC
+24,Sat Feb 7 2015,Manchester City FC,1-1,Hull City AFC
+24,Sat Feb 7 2015,Everton FC,0-0,Liverpool FC
+24,Sun Feb 8 2015,Burnley FC,2-2,West Bromwich Albion FC
+24,Sun Feb 8 2015,Newcastle United FC,1-1,Stoke City FC
+24,Sun Feb 8 2015,West Ham United FC,1-1,Manchester United FC
+25,Tue Feb 10 2015,Arsenal FC,2-1,Leicester City FC
+25,Tue Feb 10 2015,Sunderland AFC,0-2,Queens Park Rangers FC
+25,Tue Feb 10 2015,Hull City AFC,2-0,Aston Villa FC
+25,Tue Feb 10 2015,Liverpool FC,3-2,Tottenham Hotspur FC
+25,Wed Feb 11 2015,Stoke City FC,1-4,Manchester City FC
+25,Wed Feb 11 2015,Chelsea FC,1-0,Everton FC
+25,Wed Feb 11 2015,Southampton FC,0-0,West Ham United FC
+25,Wed Feb 11 2015,Manchester United FC,3-1,Burnley FC
+25,Wed Feb 11 2015,West Bromwich Albion FC,2-0,Swansea City FC
+25,Wed Feb 11 2015,Crystal Palace FC,1-1,Newcastle United FC
+26,Sat Feb 21 2015,Aston Villa FC,1-2,Stoke City FC
+26,Sat Feb 21 2015,Hull City AFC,2-1,Queens Park Rangers FC
+26,Sat Feb 21 2015,Chelsea FC,1-1,Burnley FC
+26,Sat Feb 21 2015,Crystal Palace FC,1-2,Arsenal FC
+26,Sat Feb 21 2015,Sunderland AFC,0-0,West Bromwich Albion FC
+26,Sat Feb 21 2015,Swansea City FC,2-1,Manchester United FC
+26,Sat Feb 21 2015,Manchester City FC,5-0,Newcastle United FC
+26,Sun Feb 22 2015,Tottenham Hotspur FC,2-2,West Ham United FC
+26,Sun Feb 22 2015,Everton FC,2-2,Leicester City FC
+26,Sun Feb 22 2015,Southampton FC,0-2,Liverpool FC
+27,Sat Feb 28 2015,West Ham United FC,1-3,Crystal Palace FC
+27,Sat Feb 28 2015,Newcastle United FC,1-0,Aston Villa FC
+27,Sat Feb 28 2015,West Bromwich Albion FC,1-0,Southampton FC
+27,Sat Feb 28 2015,Stoke City FC,1-0,Hull City AFC
+27,Sat Feb 28 2015,Manchester United FC,2-0,Sunderland AFC
+27,Sat Feb 28 2015,Burnley FC,0-1,Swansea City FC
+27,Sun Mar 1 2015,Liverpool FC,2-1,Manchester City FC
+27,Sun Mar 1 2015,Arsenal FC,2-0,Everton FC
+28,Tue Mar 3 2015,Southampton FC,1-0,Crystal Palace FC
+28,Tue Mar 3 2015,Aston Villa FC,2-1,West Bromwich Albion FC
+28,Tue Mar 3 2015,Hull City AFC,1-1,Sunderland AFC
+28,Wed Mar 4 2015,Stoke City FC,2-0,Everton FC
+28,Wed Mar 4 2015,West Ham United FC,0-1,Chelsea FC
+28,Wed Mar 4 2015,Tottenham Hotspur FC,3-2,Swansea City FC
+28,Wed Mar 4 2015,Newcastle United FC,0-1,Manchester United FC
+28,Wed Mar 4 2015,Manchester City FC,2-0,Leicester City FC
+28,Wed Mar 4 2015,Queens Park Rangers FC,1-2,Arsenal FC
+28,Wed Mar 4 2015,Liverpool FC,2-0,Burnley FC
+27,Sat Mar 7 2015,Queens Park Rangers FC,1-2,Tottenham Hotspur FC
+29,Sat Mar 14 2015,Crystal Palace FC,3-1,Queens Park Rangers FC
+29,Sat Mar 14 2015,Leicester City FC,0-0,Hull City AFC
+29,Sat Mar 14 2015,Arsenal FC,3-0,West Ham United FC
+29,Sat Mar 14 2015,West Bromwich Albion FC,1-0,Stoke City FC
+29,Sat Mar 14 2015,Sunderland AFC,0-4,Aston Villa FC
+29,Sat Mar 14 2015,Burnley FC,1-0,Manchester City FC
+29,Sun Mar 15 2015,Chelsea FC,1-1,Southampton FC
+29,Sun Mar 15 2015,Manchester United FC,3-0,Tottenham Hotspur FC
+29,Sun Mar 15 2015,Everton FC,3-0,Newcastle United FC
+29,Mon Mar 16 2015,Swansea City FC,0-1,Liverpool FC
+30,Sat Mar 21 2015,Manchester City FC,3-0,West Bromwich Albion FC
+30,Sat Mar 21 2015,Newcastle United FC,1-2,Arsenal FC
+30,Sat Mar 21 2015,Southampton FC,2-0,Burnley FC
+30,Sat Mar 21 2015,Tottenham Hotspur FC,4-3,Leicester City FC
+30,Sat Mar 21 2015,Stoke City FC,1-2,Crystal Palace FC
+30,Sat Mar 21 2015,Aston Villa FC,0-1,Swansea City FC
+30,Sat Mar 21 2015,West Ham United FC,1-0,Sunderland AFC
+30,Sun Mar 22 2015,Liverpool FC,1-2,Manchester United FC
+30,Sun Mar 22 2015,Queens Park Rangers FC,1-2,Everton FC
+30,Sun Mar 22 2015,Hull City AFC,2-3,Chelsea FC
+31,Sat Apr 4 2015,Arsenal FC,4-1,Liverpool FC
+31,Sat Apr 4 2015,West Bromwich Albion FC,1-4,Queens Park Rangers FC
+31,Sat Apr 4 2015,Everton FC,1-0,Southampton FC
+31,Sat Apr 4 2015,Swansea City FC,3-1,Hull City AFC
+31,Sat Apr 4 2015,Manchester United FC,3-1,Aston Villa FC
+31,Sat Apr 4 2015,Leicester City FC,2-1,West Ham United FC
+31,Sat Apr 4 2015,Chelsea FC,2-1,Stoke City FC
+31,Sun Apr 5 2015,Burnley FC,0-0,Tottenham Hotspur FC
+31,Sun Apr 5 2015,Sunderland AFC,1-0,Newcastle United FC
+31,Mon Apr 6 2015,Crystal Palace FC,2-1,Manchester City FC
+33,Tue Apr 7 2015,Aston Villa FC,3-3,Queens Park Rangers FC
+32,Sat Apr 11 2015,Swansea City FC,1-1,Everton FC
+32,Sat Apr 11 2015,West Ham United FC,1-1,Stoke City FC
+32,Sat Apr 11 2015,Sunderland AFC,1-4,Crystal Palace FC
+32,Sat Apr 11 2015,West Bromwich Albion FC,2-3,Leicester City FC
+32,Sat Apr 11 2015,Tottenham Hotspur FC,0-1,Aston Villa FC
+32,Sat Apr 11 2015,Southampton FC,2-0,Hull City AFC
+32,Sat Apr 11 2015,Burnley FC,0-1,Arsenal FC
+32,Sun Apr 12 2015,Queens Park Rangers FC,0-1,Chelsea FC
+32,Sun Apr 12 2015,Manchester United FC,4-2,Manchester City FC
+32,Mon Apr 13 2015,Liverpool FC,2-0,Newcastle United FC
+33,Sat Apr 18 2015,Crystal Palace FC,0-2,West Bromwich Albion FC
+33,Sat Apr 18 2015,Stoke City FC,2-1,Southampton FC
+33,Sat Apr 18 2015,Everton FC,1-0,Burnley FC
+33,Sat Apr 18 2015,Leicester City FC,2-0,Swansea City FC
+33,Sat Apr 18 2015,Chelsea FC,1-0,Manchester United FC
+33,Sun Apr 19 2015,Manchester City FC,2-0,West Ham United FC
+33,Sun Apr 19 2015,Newcastle United FC,1-3,Tottenham Hotspur FC
+34,Sat Apr 25 2015,Southampton FC,2-2,Tottenham Hotspur FC
+34,Sat Apr 25 2015,Stoke City FC,1-1,Sunderland AFC
+34,Sat Apr 25 2015,Burnley FC,0-1,Leicester City FC
+34,Sat Apr 25 2015,Crystal Palace FC,0-2,Hull City AFC
+34,Sat Apr 25 2015,Queens Park Rangers FC,0-0,West Ham United FC
+34,Sat Apr 25 2015,Newcastle United FC,2-3,Swansea City FC
+34,Sat Apr 25 2015,West Bromwich Albion FC,0-0,Liverpool FC
+34,Sat Apr 25 2015,Manchester City FC,3-2,Aston Villa FC
+34,Sun Apr 26 2015,Everton FC,3-0,Manchester United FC
+34,Sun Apr 26 2015,Arsenal FC,0-0,Chelsea FC
+33,Tue Apr 28 2015,Hull City AFC,1-0,Liverpool FC
+27,Wed Apr 29 2015,Leicester City FC,1-3,Chelsea FC
+35,Sat May 2 2015,Leicester City FC,3-0,Newcastle United FC
+35,Sat May 2 2015,West Ham United FC,1-0,Burnley FC
+35,Sat May 2 2015,Aston Villa FC,3-2,Everton FC
+35,Sat May 2 2015,Swansea City FC,2-0,Stoke City FC
+35,Sat May 2 2015,Liverpool FC,2-1,Queens Park Rangers FC
+35,Sat May 2 2015,Sunderland AFC,2-1,Southampton FC
+35,Sat May 2 2015,Manchester United FC,0-1,West Bromwich Albion FC
+35,Sun May 3 2015,Chelsea FC,1-0,Crystal Palace FC
+35,Sun May 3 2015,Tottenham Hotspur FC,0-1,Manchester City FC
+35,Mon May 4 2015,Hull City AFC,1-3,Arsenal FC
+36,Sat May 9 2015,Everton FC,0-2,Sunderland AFC
+36,Sat May 9 2015,Leicester City FC,2-0,Southampton FC
+36,Sat May 9 2015,Stoke City FC,3-0,Tottenham Hotspur FC
+36,Sat May 9 2015,Newcastle United FC,1-1,West Bromwich Albion FC
+36,Sat May 9 2015,Hull City AFC,0-1,Burnley FC
+36,Sat May 9 2015,Aston Villa FC,1-0,West Ham United FC
+36,Sat May 9 2015,Crystal Palace FC,1-2,Manchester United FC
+36,Sun May 10 2015,Manchester City FC,6-0,Queens Park Rangers FC
+36,Sun May 10 2015,Chelsea FC,1-1,Liverpool FC
+36,Mon May 11 2015,Arsenal FC,0-1,Swansea City FC
+37,Sat May 16 2015,Southampton FC,6-1,Aston Villa FC
+37,Sat May 16 2015,Sunderland AFC,0-0,Leicester City FC
+37,Sat May 16 2015,Tottenham Hotspur FC,2-0,Hull City AFC
+37,Sat May 16 2015,Burnley FC,0-0,Stoke City FC
+37,Sat May 16 2015,Queens Park Rangers FC,2-1,Newcastle United FC
+37,Sat May 16 2015,West Ham United FC,1-2,Everton FC
+37,Sat May 16 2015,Liverpool FC,1-3,Crystal Palace FC
+37,Sun May 17 2015,Swansea City FC,2-4,Manchester City FC
+37,Sun May 17 2015,Manchester United FC,1-1,Arsenal FC
+37,Mon May 18 2015,West Bromwich Albion FC,3-0,Chelsea FC
+33,Wed May 20 2015,Arsenal FC,0-0,Sunderland AFC
+38,Sun May 24 2015,Arsenal FC,4-1,West Bromwich Albion FC
+38,Sun May 24 2015,Everton FC,0-1,Tottenham Hotspur FC
+38,Sun May 24 2015,Manchester City FC,2-0,Southampton FC
+38,Sun May 24 2015,Stoke City FC,6-1,Liverpool FC
+38,Sun May 24 2015,Hull City AFC,0-0,Manchester United FC
+38,Sun May 24 2015,Chelsea FC,3-1,Sunderland AFC
+38,Sun May 24 2015,Leicester City FC,5-1,Queens Park Rangers FC
+38,Sun May 24 2015,Newcastle United FC,2-0,West Ham United FC
+38,Sun May 24 2015,Aston Villa FC,0-1,Burnley FC
+38,Sun May 24 2015,Crystal Palace FC,1-0,Swansea City FC
+1,Sat Aug 9 2014,Tranmere Rovers FC,1-1,York City FC
+1,Sat Aug 9 2014,Stevenage FC,1-0,Hartlepool United FC
+1,Sat Aug 9 2014,Oxford United FC,0-1,Burton Albion FC
+1,Sat Aug 9 2014,Northampton Town FC,1-0,Mansfield Town FC
+1,Sat Aug 9 2014,Newport County AFC,0-2,Wycombe Wanderers FC
+1,Sat Aug 9 2014,Exeter City FC,1-1,Portsmouth FC
+1,Sat Aug 9 2014,Dagenham & Redbridge FC,0-3,Morecambe FC
+1,Sat Aug 9 2014,Carlisle United FC,0-1,Luton Town FC
+1,Sat Aug 9 2014,Cambridge United FC,1-0,Plymouth Argyle FC
+1,Sat Aug 9 2014,Bury FC,0-1,Cheltenham Town FC
+1,Sat Aug 9 2014,AFC Wimbledon,2-2,Shrewsbury Town FC
+1,Sat Aug 9 2014,Accrington Stanley FC,0-1,Southend United FC
+2,Sat Aug 16 2014,York City FC,1-1,Northampton Town FC
+2,Sat Aug 16 2014,Wycombe Wanderers FC,3-1,Carlisle United FC
+2,Sat Aug 16 2014,Southend United FC,2-0,Stevenage FC
+2,Sat Aug 16 2014,Shrewsbury Town FC,2-1,Tranmere Rovers FC
+2,Sat Aug 16 2014,Portsmouth FC,2-1,Cambridge United FC
+2,Sat Aug 16 2014,Burton Albion FC,2-1,Dagenham & Redbridge FC
+2,Sat Aug 16 2014,Morecambe FC,3-2,Newport County AFC
+2,Sat Aug 16 2014,Mansfield Town FC,2-1,Oxford United FC
+2,Sat Aug 16 2014,Luton Town FC,0-1,AFC Wimbledon
+2,Sat Aug 16 2014,Hartlepool United FC,0-2,Bury FC
+2,Sat Aug 16 2014,Cheltenham Town FC,2-1,Accrington Stanley FC
+2,Sat Aug 16 2014,Plymouth Argyle FC,3-0,Exeter City FC
+3,Tue Aug 19 2014,York City FC,2-2,Cambridge United FC
+3,Tue Aug 19 2014,Wycombe Wanderers FC,0-2,Tranmere Rovers FC
+3,Tue Aug 19 2014,Southend United FC,0-1,AFC Wimbledon
+3,Tue Aug 19 2014,Shrewsbury Town FC,4-0,Accrington Stanley FC
+3,Tue Aug 19 2014,Portsmouth FC,2-0,Northampton Town FC
+3,Tue Aug 19 2014,Plymouth Argyle FC,1-1,Stevenage FC
+3,Tue Aug 19 2014,Morecambe FC,1-0,Oxford United FC
+3,Tue Aug 19 2014,Mansfield Town FC,1-0,Newport County AFC
+3,Tue Aug 19 2014,Luton Town FC,1-1,Bury FC
+3,Tue Aug 19 2014,Hartlepool United FC,0-2,Dagenham & Redbridge FC
+3,Tue Aug 19 2014,Cheltenham Town FC,0-0,Carlisle United FC
+3,Tue Aug 19 2014,Burton Albion FC,1-0,Exeter City FC
+4,Sat Aug 23 2014,Tranmere Rovers FC,2-3,Cheltenham Town FC
+4,Sat Aug 23 2014,Stevenage FC,1-3,Wycombe Wanderers FC
+4,Sat Aug 23 2014,Oxford United FC,0-1,Portsmouth FC
+4,Sat Aug 23 2014,Northampton Town FC,1-1,Shrewsbury Town FC
+4,Sat Aug 23 2014,Newport County AFC,1-1,Burton Albion FC
+4,Sat Aug 23 2014,Exeter City FC,1-1,York City FC
+4,Sat Aug 23 2014,Dagenham & Redbridge FC,2-0,Mansfield Town FC
+4,Sat Aug 23 2014,Carlisle United FC,1-1,Southend United FC
+4,Sat Aug 23 2014,Cambridge United FC,1-2,Morecambe FC
+4,Sat Aug 23 2014,Bury FC,2-1,Plymouth Argyle FC
+4,Sat Aug 23 2014,AFC Wimbledon,1-2,Hartlepool United FC
+4,Sat Aug 23 2014,Accrington Stanley FC,2-2,Luton Town FC
+5,Sat Aug 30 2014,York City FC,0-0,Wycombe Wanderers FC
+5,Sat Aug 30 2014,Tranmere Rovers FC,2-1,Morecambe FC
+5,Sat Aug 30 2014,Shrewsbury Town FC,2-0,Luton Town FC
+5,Sat Aug 30 2014,Portsmouth FC,0-1,Newport County AFC
+5,Sat Aug 30 2014,Plymouth Argyle FC,2-0,Southend United FC
+5,Sat Aug 30 2014,AFC Wimbledon,2-3,Stevenage FC
+5,Sat Aug 30 2014,Northampton Town FC,1-0,Exeter City FC
+5,Sat Aug 30 2014,Mansfield Town FC,1-2,Burton Albion FC
+5,Sat Aug 30 2014,Cheltenham Town FC,1-0,Hartlepool United FC
+5,Sat Aug 30 2014,Cambridge United FC,5-0,Carlisle United FC
+5,Sat Aug 30 2014,Bury FC,2-1,Accrington Stanley FC
+5,Sat Aug 30 2014,Oxford United FC,3-3,Dagenham & Redbridge FC
+6,Sat Sep 6 2014,Luton Town FC,0-1,Plymouth Argyle FC
+6,Sat Sep 6 2014,Wycombe Wanderers FC,0-0,Bury FC
+6,Sat Sep 6 2014,Stevenage FC,2-3,York City FC
+6,Sat Sep 6 2014,Southend United FC,1-1,Oxford United FC
+6,Sat Sep 6 2014,Morecambe FC,0-0,Cheltenham Town FC
+6,Sat Sep 6 2014,Accrington Stanley FC,3-2,Tranmere Rovers FC
+6,Sat Sep 6 2014,Exeter City FC,1-2,Mansfield Town FC
+6,Sat Sep 6 2014,Dagenham & Redbridge FC,0-2,Northampton Town FC
+6,Sat Sep 6 2014,Carlisle United FC,4-4,AFC Wimbledon
+6,Sat Sep 6 2014,Hartlepool United FC,2-0,Shrewsbury Town FC
+6,Sun Sep 7 2014,Burton Albion FC,2-0,Portsmouth FC
+6,Mon Sep 8 2014,Newport County AFC,1-1,Cambridge United FC
+7,Sat Sep 13 2014,Wycombe Wanderers FC,2-1,Mansfield Town FC
+7,Sat Sep 13 2014,Stevenage FC,1-0,Shrewsbury Town FC
+7,Sat Sep 13 2014,Southend United FC,2-0,Portsmouth FC
+7,Sat Sep 13 2014,Newport County AFC,3-2,Northampton Town FC
+7,Sat Sep 13 2014,Morecambe FC,2-1,Plymouth Argyle FC
+7,Sat Sep 13 2014,Luton Town FC,1-0,Cheltenham Town FC
+7,Sat Sep 13 2014,Hartlepool United FC,0-0,Tranmere Rovers FC
+7,Sat Sep 13 2014,Exeter City FC,1-1,Oxford United FC
+7,Sat Sep 13 2014,Dagenham & Redbridge FC,2-3,Cambridge United FC
+7,Sat Sep 13 2014,Carlisle United FC,0-3,Bury FC
+7,Sat Sep 13 2014,Burton Albion FC,2-0,York City FC
+7,Sat Sep 13 2014,Accrington Stanley FC,1-0,AFC Wimbledon
+8,Tue Sep 16 2014,York City FC,0-0,Luton Town FC
+8,Tue Sep 16 2014,Tranmere Rovers FC,0-0,Newport County AFC
+8,Tue Sep 16 2014,Shrewsbury Town FC,1-0,Carlisle United FC
+8,Tue Sep 16 2014,Portsmouth FC,3-0,Dagenham & Redbridge FC
+8,Tue Sep 16 2014,Plymouth Argyle FC,0-1,Wycombe Wanderers FC
+8,Tue Sep 16 2014,AFC Wimbledon,3-0,Burton Albion FC
+8,Tue Sep 16 2014,Northampton Town FC,5-1,Hartlepool United FC
+8,Tue Sep 16 2014,Mansfield Town FC,1-0,Morecambe FC
+8,Tue Sep 16 2014,Cheltenham Town FC,0-1,Southend United FC
+8,Tue Sep 16 2014,Cambridge United FC,1-2,Exeter City FC
+8,Tue Sep 16 2014,Bury FC,2-1,Stevenage FC
+8,Tue Sep 16 2014,Oxford United FC,3-1,Accrington Stanley FC
+9,Sat Sep 20 2014,York City FC,2-3,Southend United FC
+9,Sat Sep 20 2014,Tranmere Rovers FC,1-2,Exeter City FC
+9,Sat Sep 20 2014,Shrewsbury Town FC,0-0,Newport County AFC
+9,Sat Sep 20 2014,Portsmouth FC,1-1,Wycombe Wanderers FC
+9,Sat Sep 20 2014,Plymouth Argyle FC,2-0,Hartlepool United FC
+9,Sat Sep 20 2014,Oxford United FC,0-0,Stevenage FC
+9,Sat Sep 20 2014,Northampton Town FC,4-5,Accrington Stanley FC
+9,Sat Sep 20 2014,Mansfield Town FC,3-2,Carlisle United FC
+9,Sat Sep 20 2014,Cheltenham Town FC,1-1,Dagenham & Redbridge FC
+9,Sat Sep 20 2014,Cambridge United FC,0-1,Luton Town FC
+9,Sat Sep 20 2014,Bury FC,3-1,Burton Albion FC
+9,Sat Sep 20 2014,AFC Wimbledon,1-0,Morecambe FC
+10,Sat Sep 27 2014,Wycombe Wanderers FC,1-0,Cambridge United FC
+10,Sat Sep 27 2014,Stevenage FC,3-0,Mansfield Town FC
+10,Sat Sep 27 2014,Southend United FC,1-0,Shrewsbury Town FC
+10,Sat Sep 27 2014,Newport County AFC,4-1,AFC Wimbledon
+10,Sat Sep 27 2014,Morecambe FC,0-1,Northampton Town FC
+10,Sat Sep 27 2014,Luton Town FC,2-0,Oxford United FC
+10,Sat Sep 27 2014,Hartlepool United FC,0-0,Portsmouth FC
+10,Sat Sep 27 2014,Exeter City FC,2-1,Bury FC
+10,Sat Sep 27 2014,Dagenham & Redbridge FC,2-0,York City FC
+10,Sat Sep 27 2014,Carlisle United FC,1-0,Tranmere Rovers FC
+10,Sat Sep 27 2014,Burton Albion FC,1-0,Cheltenham Town FC
+10,Sat Sep 27 2014,Accrington Stanley FC,1-0,Plymouth Argyle FC
+11,Fri Oct 3 2014,Dagenham & Redbridge FC,1-2,Exeter City FC
+11,Fri Oct 3 2014,Burton Albion FC,1-3,Cambridge United FC
+11,Sat Oct 4 2014,Bury FC,2-0,Tranmere Rovers FC
+11,Sat Oct 4 2014,Wycombe Wanderers FC,1-1,Northampton Town FC
+11,Sat Oct 4 2014,Stevenage FC,1-2,Luton Town FC
+11,Sat Oct 4 2014,York City FC,0-0,Portsmouth FC
+11,Sat Oct 4 2014,Plymouth Argyle FC,1-0,Shrewsbury Town FC
+11,Sat Oct 4 2014,Oxford United FC,1-0,Newport County AFC
+11,Sat Oct 4 2014,Mansfield Town FC,0-1,Accrington Stanley FC
+11,Sat Oct 4 2014,Hartlepool United FC,0-3,Carlisle United FC
+11,Sat Oct 4 2014,Cheltenham Town FC,1-1,AFC Wimbledon
+11,Sat Oct 4 2014,Southend United FC,0-1,Morecambe FC
+12,Sat Oct 11 2014,Cambridge United FC,5-1,Oxford United FC
+12,Sat Oct 11 2014,Northampton Town FC,1-2,Burton Albion FC
+12,Sat Oct 11 2014,Tranmere Rovers FC,0-1,Plymouth Argyle FC
+12,Sat Oct 11 2014,Shrewsbury Town FC,3-1,Cheltenham Town FC
+12,Sat Oct 11 2014,Portsmouth FC,1-1,Mansfield Town FC
+12,Sat Oct 11 2014,Accrington Stanley FC,1-2,Dagenham & Redbridge FC
+12,Sat Oct 11 2014,Morecambe FC,1-3,Wycombe Wanderers FC
+12,Sat Oct 11 2014,Luton Town FC,2-0,Southend United FC
+12,Sat Oct 11 2014,Exeter City FC,1-2,Hartlepool United FC
+12,Sat Oct 11 2014,Carlisle United FC,3-0,Stevenage FC
+12,Sat Oct 11 2014,AFC Wimbledon,3-2,Bury FC
+12,Sat Oct 11 2014,Newport County AFC,3-1,York City FC
+13,Sat Oct 18 2014,York City FC,0-1,Shrewsbury Town FC
+13,Sat Oct 18 2014,Wycombe Wanderers FC,2-0,AFC Wimbledon
+13,Sat Oct 18 2014,Stevenage FC,2-1,Accrington Stanley FC
+13,Sat Oct 18 2014,Southend United FC,1-1,Exeter City FC
+13,Sat Oct 18 2014,Plymouth Argyle FC,1-0,Carlisle United FC
+13,Sat Oct 18 2014,Oxford United FC,2-0,Tranmere Rovers FC
+13,Sat Oct 18 2014,Mansfield Town FC,0-0,Cambridge United FC
+13,Sat Oct 18 2014,Hartlepool United FC,1-2,Luton Town FC
+13,Sat Oct 18 2014,Dagenham & Redbridge FC,0-1,Newport County AFC
+13,Sat Oct 18 2014,Cheltenham Town FC,3-2,Northampton Town FC
+13,Sat Oct 18 2014,Bury FC,3-0,Portsmouth FC
+13,Sat Oct 18 2014,Burton Albion FC,0-2,Morecambe FC
+14,Tue Oct 21 2014,Tranmere Rovers FC,0-0,Mansfield Town FC
+14,Tue Oct 21 2014,Shrewsbury Town FC,5-0,Bury FC
+14,Tue Oct 21 2014,Portsmouth FC,3-2,Stevenage FC
+14,Tue Oct 21 2014,Northampton Town FC,1-3,Oxford United FC
+14,Tue Oct 21 2014,Newport County AFC,1-0,Southend United FC
+14,Tue Oct 21 2014,Accrington Stanley FC,3-1,Hartlepool United FC
+14,Tue Oct 21 2014,Luton Town FC,3-1,Dagenham & Redbridge FC
+14,Tue Oct 21 2014,Exeter City FC,2-1,Wycombe Wanderers FC
+14,Tue Oct 21 2014,Carlisle United FC,3-4,Burton Albion FC
+14,Tue Oct 21 2014,Cambridge United FC,1-2,Cheltenham Town FC
+14,Tue Oct 21 2014,AFC Wimbledon,0-0,Plymouth Argyle FC
+14,Tue Oct 21 2014,Morecambe FC,1-1,York City FC
+15,Sat Oct 25 2014,York City FC,1-1,Mansfield Town FC
+15,Sat Oct 25 2014,Wycombe Wanderers FC,1-1,Dagenham & Redbridge FC
+15,Sat Oct 25 2014,Stevenage FC,1-0,Burton Albion FC
+15,Sat Oct 25 2014,Southend United FC,1-1,Bury FC
+15,Sat Oct 25 2014,Shrewsbury Town FC,2-1,Portsmouth FC
+15,Sat Oct 25 2014,Plymouth Argyle FC,3-0,Cheltenham Town FC
+15,Sat Oct 25 2014,Newport County AFC,1-1,Accrington Stanley FC
+15,Sat Oct 25 2014,Luton Town FC,1-0,Northampton Town FC
+15,Sat Oct 25 2014,Carlisle United FC,2-1,Oxford United FC
+15,Sat Oct 25 2014,Cambridge United FC,2-1,Hartlepool United FC
+15,Sat Oct 25 2014,AFC Wimbledon,2-2,Tranmere Rovers FC
+15,Sun Oct 26 2014,Morecambe FC,0-2,Exeter City FC
+16,Fri Oct 31 2014,Accrington Stanley FC,2-1,Morecambe FC
+16,Sat Nov 1 2014,Tranmere Rovers FC,2-2,Stevenage FC
+16,Sat Nov 1 2014,Portsmouth FC,3-0,Carlisle United FC
+16,Sat Nov 1 2014,Oxford United FC,1-2,Wycombe Wanderers FC
+16,Sat Nov 1 2014,Northampton Town FC,2-0,AFC Wimbledon
+16,Sat Nov 1 2014,Mansfield Town FC,1-2,Southend United FC
+16,Sat Nov 1 2014,Hartlepool United FC,2-2,Newport County AFC
+16,Sat Nov 1 2014,Exeter City FC,1-1,Luton Town FC
+16,Sat Nov 1 2014,Dagenham & Redbridge FC,1-2,Shrewsbury Town FC
+16,Sat Nov 1 2014,Cheltenham Town FC,0-1,York City FC
+16,Sat Nov 1 2014,Burton Albion FC,1-1,Plymouth Argyle FC
+16,Sat Nov 1 2014,Bury FC,2-0,Cambridge United FC
+17,Fri Nov 14 2014,Cambridge United FC,2-1,Northampton Town FC
+17,Sat Nov 15 2014,Stevenage FC,5-1,Cheltenham Town FC
+17,Sat Nov 15 2014,Morecambe FC,1-0,Bury FC
+17,Sat Nov 15 2014,York City FC,0-1,Oxford United FC
+17,Sat Nov 15 2014,Plymouth Argyle FC,3-0,Portsmouth FC
+17,Sat Nov 15 2014,AFC Wimbledon,1-0,Dagenham & Redbridge FC
+17,Sat Nov 15 2014,Shrewsbury Town FC,2-0,Mansfield Town FC
+17,Sat Nov 15 2014,Luton Town FC,1-0,Tranmere Rovers FC
+17,Sat Nov 15 2014,Carlisle United FC,1-0,Accrington Stanley FC
+17,Sat Nov 15 2014,Southend United FC,1-0,Hartlepool United FC
+17,Sun Nov 16 2014,Newport County AFC,2-2,Exeter City FC
+17,Mon Nov 17 2014,Wycombe Wanderers FC,1-3,Burton Albion FC
+18,Sat Nov 22 2014,Mansfield Town FC,1-0,Plymouth Argyle FC
+18,Sat Nov 22 2014,Portsmouth FC,3-0,Morecambe FC
+18,Sat Nov 22 2014,Oxford United FC,0-0,AFC Wimbledon
+18,Sat Nov 22 2014,Northampton Town FC,1-0,Stevenage FC
+18,Sat Nov 22 2014,Tranmere Rovers FC,1-2,Southend United FC
+18,Sat Nov 22 2014,Accrington Stanley FC,2-1,Cambridge United FC
+18,Sat Nov 22 2014,Exeter City FC,3-2,Shrewsbury Town FC
+18,Sat Nov 22 2014,Dagenham & Redbridge FC,4-2,Carlisle United FC
+18,Sat Nov 22 2014,Cheltenham Town FC,1-4,Wycombe Wanderers FC
+18,Sat Nov 22 2014,Bury FC,1-3,Newport County AFC
+18,Sat Nov 22 2014,Burton Albion FC,1-0,Luton Town FC
+18,Sat Nov 22 2014,Hartlepool United FC,1-3,York City FC
+19,Fri Nov 28 2014,Accrington Stanley FC,2-3,Exeter City FC
+19,Sat Nov 29 2014,Luton Town FC,3-0,Mansfield Town FC
+19,Sat Nov 29 2014,Stevenage FC,1-1,Morecambe FC
+19,Sat Nov 29 2014,Southend United FC,2-0,Northampton Town FC
+19,Sat Nov 29 2014,Shrewsbury Town FC,1-0,Burton Albion FC
+19,Sat Nov 29 2014,Plymouth Argyle FC,1-1,York City FC
+19,Sat Nov 29 2014,Tranmere Rovers FC,3-1,Portsmouth FC
+19,Sat Nov 29 2014,Hartlepool United FC,1-3,Wycombe Wanderers FC
+19,Sat Nov 29 2014,Cheltenham Town FC,1-1,Oxford United FC
+19,Sat Nov 29 2014,Carlisle United FC,2-3,Newport County AFC
+19,Sat Nov 29 2014,Bury FC,0-2,Dagenham & Redbridge FC
+19,Sat Nov 29 2014,AFC Wimbledon,1-2,Cambridge United FC
+34,Sat Dec 6 2014,Exeter City FC,1-1,Burton Albion FC
+20,Sat Dec 13 2014,York City FC,2-3,AFC Wimbledon
+20,Sat Dec 13 2014,Wycombe Wanderers FC,4-1,Southend United FC
+20,Sat Dec 13 2014,Portsmouth FC,2-3,Accrington Stanley FC
+20,Sat Dec 13 2014,Oxford United FC,2-1,Bury FC
+20,Sat Dec 13 2014,Northampton Town FC,2-3,Plymouth Argyle FC
+20,Sat Dec 13 2014,Burton Albion FC,4-0,Hartlepool United FC
+20,Sat Dec 13 2014,Morecambe FC,3-0,Luton Town FC
+20,Sat Dec 13 2014,Mansfield Town FC,1-1,Cheltenham Town FC
+20,Sat Dec 13 2014,Exeter City FC,2-0,Carlisle United FC
+20,Sat Dec 13 2014,Dagenham & Redbridge FC,0-1,Tranmere Rovers FC
+20,Sat Dec 13 2014,Cambridge United FC,0-0,Shrewsbury Town FC
+20,Sat Dec 13 2014,Newport County AFC,2-0,Stevenage FC
+21,Fri Dec 19 2014,Tranmere Rovers FC,1-1,Cambridge United FC
+21,Fri Dec 19 2014,Southend United FC,0-0,Burton Albion FC
+21,Sat Dec 20 2014,Luton Town FC,3-0,Newport County AFC
+21,Sat Dec 20 2014,Shrewsbury Town FC,1-0,Morecambe FC
+21,Sat Dec 20 2014,Accrington Stanley FC,1-1,Wycombe Wanderers FC
+21,Sat Dec 20 2014,Stevenage FC,1-0,Exeter City FC
+21,Sat Dec 20 2014,Hartlepool United FC,1-1,Oxford United FC
+21,Sat Dec 20 2014,Cheltenham Town FC,1-1,Portsmouth FC
+21,Sat Dec 20 2014,Carlisle United FC,2-1,Northampton Town FC
+21,Sat Dec 20 2014,Bury FC,2-2,York City FC
+21,Sat Dec 20 2014,AFC Wimbledon,0-1,Mansfield Town FC
+21,Sat Dec 20 2014,Plymouth Argyle FC,3-0,Dagenham & Redbridge FC
+22,Fri Dec 26 2014,Portsmouth FC,0-2,AFC Wimbledon
+22,Fri Dec 26 2014,Cambridge United FC,0-1,Southend United FC
+22,Fri Dec 26 2014,Dagenham & Redbridge FC,0-2,Stevenage FC
+22,Fri Dec 26 2014,York City FC,1-0,Accrington Stanley FC
+22,Fri Dec 26 2014,Wycombe Wanderers FC,1-1,Luton Town FC
+22,Fri Dec 26 2014,Oxford United FC,0-2,Shrewsbury Town FC
+22,Fri Dec 26 2014,Northampton Town FC,2-3,Bury FC
+22,Fri Dec 26 2014,Newport County AFC,2-0,Plymouth Argyle FC
+22,Fri Dec 26 2014,Morecambe FC,0-1,Carlisle United FC
+22,Fri Dec 26 2014,Mansfield Town FC,1-1,Hartlepool United FC
+22,Fri Dec 26 2014,Exeter City FC,1-0,Cheltenham Town FC
+22,Fri Dec 26 2014,Burton Albion FC,2-0,Tranmere Rovers FC
+23,Sun Dec 28 2014,Tranmere Rovers FC,2-1,Northampton Town FC
+23,Sun Dec 28 2014,Stevenage FC,3-2,Cambridge United FC
+23,Sun Dec 28 2014,Southend United FC,0-0,Dagenham & Redbridge FC
+23,Sun Dec 28 2014,Shrewsbury Town FC,0-0,Wycombe Wanderers FC
+23,Sun Dec 28 2014,Plymouth Argyle FC,1-2,Oxford United FC
+23,Sun Dec 28 2014,Luton Town FC,1-1,Portsmouth FC
+23,Sun Dec 28 2014,Hartlepool United FC,0-2,Morecambe FC
+23,Sun Dec 28 2014,Cheltenham Town FC,0-1,Newport County AFC
+23,Sun Dec 28 2014,Carlisle United FC,0-3,York City FC
+23,Sun Dec 28 2014,Bury FC,2-0,Mansfield Town FC
+23,Sun Dec 28 2014,AFC Wimbledon,4-1,Exeter City FC
+24,Sat Jan 3 2015,York City FC,0-0,Plymouth Argyle FC
+24,Sat Jan 3 2015,Wycombe Wanderers FC,1-0,Hartlepool United FC
+24,Sat Jan 3 2015,Oxford United FC,1-2,Cheltenham Town FC
+24,Sat Jan 3 2015,Northampton Town FC,1-1,Southend United FC
+24,Sat Jan 3 2015,Newport County AFC,2-1,Carlisle United FC
+24,Sat Jan 3 2015,Morecambe FC,0-0,Stevenage FC
+24,Sat Jan 3 2015,Exeter City FC,1-2,Accrington Stanley FC
+24,Sat Jan 3 2015,Dagenham & Redbridge FC,1-0,Bury FC
+24,Sat Jan 3 2015,Burton Albion FC,1-0,Shrewsbury Town FC
+25,Thu Jan 8 2015,Luton Town FC,0-0,Shrewsbury Town FC
+25,Sat Jan 10 2015,Wycombe Wanderers FC,1-0,York City FC
+25,Sat Jan 10 2015,Stevenage FC,2-1,AFC Wimbledon
+25,Sat Jan 10 2015,Southend United FC,0-0,Plymouth Argyle FC
+25,Sat Jan 10 2015,Newport County AFC,1-0,Portsmouth FC
+25,Sat Jan 10 2015,Morecambe FC,0-0,Tranmere Rovers FC
+25,Sat Jan 10 2015,Burton Albion FC,2-1,Mansfield Town FC
+25,Sat Jan 10 2015,Exeter City FC,0-2,Northampton Town FC
+25,Sat Jan 10 2015,Dagenham & Redbridge FC,0-0,Oxford United FC
+25,Sat Jan 10 2015,Carlisle United FC,0-1,Cambridge United FC
+25,Sat Jan 10 2015,Hartlepool United FC,2-0,Cheltenham Town FC
+26,Fri Jan 16 2015,Cheltenham Town FC,1-1,Morecambe FC
+26,Sat Jan 17 2015,Plymouth Argyle FC,0-1,Luton Town FC
+26,Sat Jan 17 2015,Tranmere Rovers FC,3-0,Accrington Stanley FC
+26,Sat Jan 17 2015,Shrewsbury Town FC,3-0,Hartlepool United FC
+26,Sat Jan 17 2015,Portsmouth FC,1-1,Burton Albion FC
+26,Sat Jan 17 2015,AFC Wimbledon,1-3,Carlisle United FC
+26,Sat Jan 17 2015,Oxford United FC,2-3,Southend United FC
+26,Sat Jan 17 2015,Northampton Town FC,1-0,Dagenham & Redbridge FC
+26,Sat Jan 17 2015,Mansfield Town FC,2-3,Exeter City FC
+26,Sat Jan 17 2015,Cambridge United FC,4-0,Newport County AFC
+26,Sat Jan 17 2015,Bury FC,1-1,Wycombe Wanderers FC
+26,Sat Jan 17 2015,York City FC,0-2,Stevenage FC
+27,Sat Jan 24 2015,York City FC,1-1,Burton Albion FC
+27,Sat Jan 24 2015,Tranmere Rovers FC,1-1,Hartlepool United FC
+27,Sat Jan 24 2015,Shrewsbury Town FC,3-2,Stevenage FC
+27,Sat Jan 24 2015,Portsmouth FC,1-2,Southend United FC
+27,Sat Jan 24 2015,Plymouth Argyle FC,1-1,Morecambe FC
+27,Sat Jan 24 2015,Oxford United FC,2-2,Exeter City FC
+27,Sat Jan 24 2015,Northampton Town FC,3-0,Newport County AFC
+27,Sat Jan 24 2015,Mansfield Town FC,0-0,Wycombe Wanderers FC
+27,Sat Jan 24 2015,AFC Wimbledon,2-1,Accrington Stanley FC
+27,Sat Jan 24 2015,Bury FC,2-1,Carlisle United FC
+27,Sat Jan 24 2015,Cheltenham Town FC,1-1,Luton Town FC
+25,Tue Jan 27 2015,Accrington Stanley FC,0-1,Bury FC
+27,Tue Jan 27 2015,Cambridge United FC,1-1,Dagenham & Redbridge FC
+28,Sat Jan 31 2015,Morecambe FC,1-1,AFC Wimbledon
+28,Sat Jan 31 2015,Stevenage FC,0-2,Oxford United FC
+28,Sat Jan 31 2015,Southend United FC,1-0,York City FC
+28,Sat Jan 31 2015,Newport County AFC,0-1,Shrewsbury Town FC
+28,Sat Jan 31 2015,Wycombe Wanderers FC,0-0,Portsmouth FC
+28,Sat Jan 31 2015,Luton Town FC,3-2,Cambridge United FC
+28,Sat Jan 31 2015,Hartlepool United FC,3-2,Plymouth Argyle FC
+28,Sat Jan 31 2015,Exeter City FC,1-2,Tranmere Rovers FC
+28,Sat Jan 31 2015,Dagenham & Redbridge FC,3-1,Cheltenham Town FC
+28,Sat Jan 31 2015,Carlisle United FC,2-1,Mansfield Town FC
+28,Sat Jan 31 2015,Accrington Stanley FC,1-5,Northampton Town FC
+28,Sat Jan 31 2015,Burton Albion FC,1-0,Bury FC
+29,Sat Feb 7 2015,York City FC,0-2,Dagenham & Redbridge FC
+29,Sat Feb 7 2015,Tranmere Rovers FC,0-2,Carlisle United FC
+29,Sat Feb 7 2015,Shrewsbury Town FC,1-1,Southend United FC
+29,Sat Feb 7 2015,Portsmouth FC,1-0,Hartlepool United FC
+29,Sat Feb 7 2015,AFC Wimbledon,2-0,Newport County AFC
+29,Sat Feb 7 2015,Oxford United FC,1-1,Luton Town FC
+29,Sat Feb 7 2015,Northampton Town FC,2-1,Morecambe FC
+29,Sat Feb 7 2015,Mansfield Town FC,1-0,Stevenage FC
+29,Sat Feb 7 2015,Cheltenham Town FC,1-3,Burton Albion FC
+29,Sat Feb 7 2015,Cambridge United FC,0-1,Wycombe Wanderers FC
+29,Sat Feb 7 2015,Bury FC,1-1,Exeter City FC
+29,Sat Feb 7 2015,Plymouth Argyle FC,1-0,Accrington Stanley FC
+30,Tue Feb 10 2015,Wycombe Wanderers FC,0-2,Plymouth Argyle FC
+30,Tue Feb 10 2015,Stevenage FC,0-0,Bury FC
+30,Tue Feb 10 2015,Accrington Stanley FC,1-0,Oxford United FC
+30,Tue Feb 10 2015,Newport County AFC,1-1,Tranmere Rovers FC
+30,Tue Feb 10 2015,Morecambe FC,2-1,Mansfield Town FC
+30,Tue Feb 10 2015,Luton Town FC,2-2,York City FC
+30,Tue Feb 10 2015,Hartlepool United FC,1-0,Northampton Town FC
+30,Tue Feb 10 2015,Exeter City FC,2-2,Cambridge United FC
+30,Tue Feb 10 2015,Dagenham & Redbridge FC,0-0,Portsmouth FC
+30,Tue Feb 10 2015,Carlisle United FC,1-2,Shrewsbury Town FC
+30,Tue Feb 10 2015,Burton Albion FC,0-0,AFC Wimbledon
+30,Tue Feb 10 2015,Southend United FC,2-0,Cheltenham Town FC
+31,Sat Feb 14 2015,York City FC,2-0,Tranmere Rovers FC
+31,Sat Feb 14 2015,Wycombe Wanderers FC,1-2,Newport County AFC
+31,Sat Feb 14 2015,Southend United FC,1-2,Accrington Stanley FC
+31,Sat Feb 14 2015,Shrewsbury Town FC,2-0,AFC Wimbledon
+31,Sat Feb 14 2015,Portsmouth FC,1-0,Exeter City FC
+31,Sat Feb 14 2015,Plymouth Argyle FC,2-0,Cambridge United FC
+31,Sat Feb 14 2015,Burton Albion FC,2-0,Oxford United FC
+31,Sat Feb 14 2015,Luton Town FC,1-0,Carlisle United FC
+31,Sat Feb 14 2015,Hartlepool United FC,1-3,Stevenage FC
+31,Sat Feb 14 2015,Cheltenham Town FC,1-2,Bury FC
+31,Sat Feb 14 2015,Mansfield Town FC,1-1,Northampton Town FC
+31,Sun Feb 15 2015,Morecambe FC,2-3,Dagenham & Redbridge FC
+24,Tue Feb 17 2015,Mansfield Town FC,1-0,Luton Town FC
+32,Fri Feb 20 2015,Accrington Stanley FC,1-1,Cheltenham Town FC
+32,Sat Feb 21 2015,Northampton Town FC,3-0,York City FC
+32,Sat Feb 21 2015,Tranmere Rovers FC,2-1,Shrewsbury Town FC
+32,Sat Feb 21 2015,Stevenage FC,4-2,Southend United FC
+32,Sat Feb 21 2015,Oxford United FC,3-0,Mansfield Town FC
+32,Sat Feb 21 2015,Exeter City FC,1-3,Plymouth Argyle FC
+32,Sat Feb 21 2015,AFC Wimbledon,3-2,Luton Town FC
+32,Sat Feb 21 2015,Dagenham & Redbridge FC,1-3,Burton Albion FC
+32,Sat Feb 21 2015,Carlisle United FC,2-3,Wycombe Wanderers FC
+32,Sat Feb 21 2015,Cambridge United FC,2-6,Portsmouth FC
+32,Sat Feb 21 2015,Bury FC,1-0,Hartlepool United FC
+32,Sat Feb 21 2015,Newport County AFC,0-1,Morecambe FC
+23,Tue Feb 24 2015,Accrington Stanley FC,1-0,Burton Albion FC
+24,Tue Feb 24 2015,Cambridge United FC,0-0,AFC Wimbledon
+24,Tue Feb 24 2015,Portsmouth FC,3-2,Tranmere Rovers FC
+33,Sat Feb 28 2015,Portsmouth FC,0-0,Oxford United FC
+33,Sat Feb 28 2015,Wycombe Wanderers FC,2-2,Stevenage FC
+33,Sat Feb 28 2015,Southend United FC,2-0,Carlisle United FC
+33,Sat Feb 28 2015,Burton Albion FC,0-1,Newport County AFC
+33,Sat Feb 28 2015,York City FC,0-0,Exeter City FC
+33,Sat Feb 28 2015,Plymouth Argyle FC,0-2,Bury FC
+33,Sat Feb 28 2015,Morecambe FC,0-2,Cambridge United FC
+33,Sat Feb 28 2015,Mansfield Town FC,2-1,Dagenham & Redbridge FC
+33,Sat Feb 28 2015,Luton Town FC,2-0,Accrington Stanley FC
+33,Sat Feb 28 2015,Hartlepool United FC,1-0,AFC Wimbledon
+33,Sat Feb 28 2015,Cheltenham Town FC,2-0,Tranmere Rovers FC
+33,Sat Feb 28 2015,Shrewsbury Town FC,1-2,Northampton Town FC
+34,Tue Mar 3 2015,Tranmere Rovers FC,1-2,Wycombe Wanderers FC
+34,Tue Mar 3 2015,Stevenage FC,1-0,Plymouth Argyle FC
+34,Tue Mar 3 2015,Oxford United FC,1-1,Morecambe FC
+34,Tue Mar 3 2015,Northampton Town FC,1-0,Portsmouth FC
+34,Tue Mar 3 2015,Newport County AFC,0-1,Mansfield Town FC
+34,Tue Mar 3 2015,Dagenham & Redbridge FC,2-0,Hartlepool United FC
+34,Tue Mar 3 2015,Carlisle United FC,1-0,Cheltenham Town FC
+34,Tue Mar 3 2015,Cambridge United FC,0-3,York City FC
+34,Tue Mar 3 2015,Bury FC,1-0,Luton Town FC
+34,Tue Mar 3 2015,AFC Wimbledon,0-0,Southend United FC
+34,Tue Mar 3 2015,Accrington Stanley FC,1-2,Shrewsbury Town FC
+35,Sat Mar 7 2015,Tranmere Rovers FC,2-3,Dagenham & Redbridge FC
+35,Sat Mar 7 2015,Stevenage FC,2-1,Newport County AFC
+35,Sat Mar 7 2015,Southend United FC,2-2,Wycombe Wanderers FC
+35,Sat Mar 7 2015,Shrewsbury Town FC,1-1,Cambridge United FC
+35,Sat Mar 7 2015,Plymouth Argyle FC,2-0,Northampton Town FC
+35,Sat Mar 7 2015,Luton Town FC,2-3,Morecambe FC
+35,Sat Mar 7 2015,Accrington Stanley FC,1-1,Portsmouth FC
+35,Sat Mar 7 2015,Cheltenham Town FC,1-1,Mansfield Town FC
+35,Sat Mar 7 2015,Carlisle United FC,1-3,Exeter City FC
+35,Sat Mar 7 2015,Bury FC,0-1,Oxford United FC
+35,Sat Mar 7 2015,AFC Wimbledon,2-1,York City FC
+35,Sat Mar 7 2015,Hartlepool United FC,0-1,Burton Albion FC
+36,Fri Mar 13 2015,Newport County AFC,1-1,Cheltenham Town FC
+36,Sat Mar 14 2015,York City FC,0-0,Carlisle United FC
+36,Sat Mar 14 2015,Wycombe Wanderers FC,1-0,Shrewsbury Town FC
+36,Sat Mar 14 2015,Portsmouth FC,2-0,Luton Town FC
+36,Sat Mar 14 2015,Oxford United FC,0-0,Plymouth Argyle FC
+36,Sat Mar 14 2015,Northampton Town FC,1-0,Tranmere Rovers FC
+36,Sat Mar 14 2015,Morecambe FC,0-1,Hartlepool United FC
+36,Sat Mar 14 2015,Mansfield Town FC,0-1,Bury FC
+36,Sat Mar 14 2015,Exeter City FC,3-2,AFC Wimbledon
+36,Sat Mar 14 2015,Dagenham & Redbridge FC,1-3,Southend United FC
+36,Sat Mar 14 2015,Cambridge United FC,1-1,Stevenage FC
+36,Sat Mar 14 2015,Burton Albion FC,3-0,Accrington Stanley FC
+37,Tue Mar 17 2015,York City FC,0-1,Bury FC
+37,Tue Mar 17 2015,Wycombe Wanderers FC,2-2,Accrington Stanley FC
+37,Tue Mar 17 2015,Portsmouth FC,2-2,Cheltenham Town FC
+37,Tue Mar 17 2015,Oxford United FC,0-2,Hartlepool United FC
+37,Tue Mar 17 2015,Northampton Town FC,0-2,Carlisle United FC
+37,Tue Mar 17 2015,Cambridge United FC,1-2,Tranmere Rovers FC
+37,Tue Mar 17 2015,Morecambe FC,1-4,Shrewsbury Town FC
+37,Tue Mar 17 2015,Mansfield Town FC,2-1,AFC Wimbledon
+37,Tue Mar 17 2015,Exeter City FC,0-0,Stevenage FC
+37,Tue Mar 17 2015,Dagenham & Redbridge FC,2-0,Plymouth Argyle FC
+37,Tue Mar 17 2015,Newport County AFC,1-0,Luton Town FC
+37,Wed Mar 18 2015,Burton Albion FC,2-1,Southend United FC
+38,Sat Mar 21 2015,Hartlepool United FC,1-0,Mansfield Town FC
+38,Sat Mar 21 2015,Stevenage FC,0-1,Dagenham & Redbridge FC
+38,Sat Mar 21 2015,Southend United FC,0-0,Cambridge United FC
+38,Sat Mar 21 2015,Shrewsbury Town FC,2-0,Oxford United FC
+38,Sat Mar 21 2015,Plymouth Argyle FC,0-0,Newport County AFC
+38,Sat Mar 21 2015,Tranmere Rovers FC,1-4,Burton Albion FC
+38,Sat Mar 21 2015,Cheltenham Town FC,1-2,Exeter City FC
+38,Sat Mar 21 2015,Carlisle United FC,1-1,Morecambe FC
+38,Sat Mar 21 2015,Bury FC,2-1,Northampton Town FC
+38,Sat Mar 21 2015,AFC Wimbledon,1-0,Portsmouth FC
+38,Sat Mar 21 2015,Accrington Stanley FC,2-2,York City FC
+38,Tue Mar 24 2015,Luton Town FC,2-3,Wycombe Wanderers FC
+39,Fri Mar 27 2015,Accrington Stanley FC,0-2,Newport County AFC
+39,Sat Mar 28 2015,Tranmere Rovers FC,1-1,AFC Wimbledon
+39,Sat Mar 28 2015,Portsmouth FC,0-2,Shrewsbury Town FC
+39,Sat Mar 28 2015,Oxford United FC,2-1,Carlisle United FC
+39,Sat Mar 28 2015,Northampton Town FC,2-1,Luton Town FC
+39,Sat Mar 28 2015,Cheltenham Town FC,0-3,Plymouth Argyle FC
+39,Sat Mar 28 2015,Hartlepool United FC,2-1,Cambridge United FC
+39,Sat Mar 28 2015,Exeter City FC,1-1,Morecambe FC
+39,Sat Mar 28 2015,Dagenham & Redbridge FC,0-1,Wycombe Wanderers FC
+39,Sat Mar 28 2015,Mansfield Town FC,1-4,York City FC
+39,Mon Mar 30 2015,Burton Albion FC,1-1,Stevenage FC
+40,Fri Apr 3 2015,York City FC,1-0,Cheltenham Town FC
+40,Fri Apr 3 2015,Wycombe Wanderers FC,2-3,Oxford United FC
+40,Fri Apr 3 2015,Stevenage FC,2-2,Tranmere Rovers FC
+40,Fri Apr 3 2015,Southend United FC,2-0,Mansfield Town FC
+40,Fri Apr 3 2015,Shrewsbury Town FC,2-0,Dagenham & Redbridge FC
+40,Fri Apr 3 2015,Plymouth Argyle FC,1-1,Burton Albion FC
+40,Fri Apr 3 2015,AFC Wimbledon,2-2,Northampton Town FC
+40,Fri Apr 3 2015,Morecambe FC,1-1,Accrington Stanley FC
+40,Fri Apr 3 2015,Luton Town FC,2-3,Exeter City FC
+40,Fri Apr 3 2015,Carlisle United FC,2-2,Portsmouth FC
+40,Fri Apr 3 2015,Cambridge United FC,0-2,Bury FC
+40,Fri Apr 3 2015,Newport County AFC,2-2,Hartlepool United FC
+41,Mon Apr 6 2015,Mansfield Town FC,0-1,Shrewsbury Town FC
+41,Mon Apr 6 2015,Exeter City FC,2-0,Newport County AFC
+41,Mon Apr 6 2015,Tranmere Rovers FC,0-1,Luton Town FC
+41,Mon Apr 6 2015,Portsmouth FC,2-1,Plymouth Argyle FC
+41,Mon Apr 6 2015,Oxford United FC,0-0,York City FC
+41,Mon Apr 6 2015,Northampton Town FC,0-1,Cambridge United FC
+41,Mon Apr 6 2015,Hartlepool United FC,0-1,Southend United FC
+41,Mon Apr 6 2015,Accrington Stanley FC,3-1,Carlisle United FC
+41,Mon Apr 6 2015,Cheltenham Town FC,0-1,Stevenage FC
+41,Mon Apr 6 2015,Bury FC,1-2,Morecambe FC
+41,Mon Apr 6 2015,Burton Albion FC,1-0,Wycombe Wanderers FC
+41,Mon Apr 6 2015,Dagenham & Redbridge FC,4-0,AFC Wimbledon
+42,Sat Apr 11 2015,York City FC,1-0,Hartlepool United FC
+42,Sat Apr 11 2015,Wycombe Wanderers FC,2-1,Cheltenham Town FC
+42,Sat Apr 11 2015,Stevenage FC,2-1,Northampton Town FC
+42,Sat Apr 11 2015,Southend United FC,1-0,Tranmere Rovers FC
+42,Sat Apr 11 2015,Shrewsbury Town FC,4-0,Exeter City FC
+42,Sat Apr 11 2015,Plymouth Argyle FC,2-1,Mansfield Town FC
+42,Sat Apr 11 2015,Newport County AFC,0-2,Bury FC
+42,Sat Apr 11 2015,Morecambe FC,3-1,Portsmouth FC
+42,Sat Apr 11 2015,Luton Town FC,0-1,Burton Albion FC
+42,Sat Apr 11 2015,Carlisle United FC,1-0,Dagenham & Redbridge FC
+42,Sat Apr 11 2015,Cambridge United FC,2-2,Accrington Stanley FC
+42,Sat Apr 11 2015,AFC Wimbledon,0-0,Oxford United FC
+43,Tue Apr 14 2015,York City FC,2-1,Morecambe FC
+43,Tue Apr 14 2015,Wycombe Wanderers FC,2-1,Exeter City FC
+43,Tue Apr 14 2015,Stevenage FC,1-0,Portsmouth FC
+43,Tue Apr 14 2015,Southend United FC,2-0,Newport County AFC
+43,Tue Apr 14 2015,Plymouth Argyle FC,1-1,AFC Wimbledon
+43,Tue Apr 14 2015,Bury FC,1-0,Shrewsbury Town FC
+43,Tue Apr 14 2015,Mansfield Town FC,1-0,Tranmere Rovers FC
+43,Tue Apr 14 2015,Hartlepool United FC,1-1,Accrington Stanley FC
+43,Tue Apr 14 2015,Dagenham & Redbridge FC,0-0,Luton Town FC
+43,Tue Apr 14 2015,Cheltenham Town FC,3-1,Cambridge United FC
+43,Tue Apr 14 2015,Oxford United FC,1-1,Northampton Town FC
+43,Wed Apr 15 2015,Burton Albion FC,1-1,Carlisle United FC
+44,Sat Apr 18 2015,Morecambe FC,1-2,Burton Albion FC
+44,Sat Apr 18 2015,Shrewsbury Town FC,1-0,York City FC
+44,Sat Apr 18 2015,Portsmouth FC,0-1,Bury FC
+44,Sat Apr 18 2015,Northampton Town FC,2-0,Cheltenham Town FC
+44,Sat Apr 18 2015,Newport County AFC,2-3,Dagenham & Redbridge FC
+44,Sat Apr 18 2015,Tranmere Rovers FC,0-3,Oxford United FC
+44,Sat Apr 18 2015,Accrington Stanley FC,2-2,Stevenage FC
+44,Sat Apr 18 2015,Exeter City FC,0-1,Southend United FC
+44,Sat Apr 18 2015,Carlisle United FC,2-0,Plymouth Argyle FC
+44,Sat Apr 18 2015,Cambridge United FC,3-1,Mansfield Town FC
+44,Sat Apr 18 2015,AFC Wimbledon,0-0,Wycombe Wanderers FC
+44,Sat Apr 18 2015,Luton Town FC,3-0,Hartlepool United FC
+39,Tue Apr 21 2015,Bury FC,0-1,Southend United FC
+45,Sat Apr 25 2015,York City FC,0-2,Newport County AFC
+45,Sat Apr 25 2015,Wycombe Wanderers FC,0-1,Morecambe FC
+45,Sat Apr 25 2015,Stevenage FC,1-0,Carlisle United FC
+45,Sat Apr 25 2015,Southend United FC,1-0,Luton Town FC
+45,Sat Apr 25 2015,Plymouth Argyle FC,3-2,Tranmere Rovers FC
+45,Sat Apr 25 2015,Oxford United FC,2-0,Cambridge United FC
+45,Sat Apr 25 2015,Mansfield Town FC,1-2,Portsmouth FC
+45,Sat Apr 25 2015,Hartlepool United FC,2-1,Exeter City FC
+45,Sat Apr 25 2015,Dagenham & Redbridge FC,4-0,Accrington Stanley FC
+45,Sat Apr 25 2015,Cheltenham Town FC,0-1,Shrewsbury Town FC
+45,Sat Apr 25 2015,Bury FC,2-0,AFC Wimbledon
+45,Sat Apr 25 2015,Burton Albion FC,3-1,Northampton Town FC
+46,Sat May 2 2015,Tranmere Rovers FC,0-1,Bury FC
+46,Sat May 2 2015,Shrewsbury Town FC,0-2,Plymouth Argyle FC
+46,Sat May 2 2015,Portsmouth FC,1-1,York City FC
+46,Sat May 2 2015,Northampton Town FC,2-3,Wycombe Wanderers FC
+46,Sat May 2 2015,Newport County AFC,0-1,Oxford United FC
+46,Sat May 2 2015,Morecambe FC,3-1,Southend United FC
+46,Sat May 2 2015,Luton Town FC,2-0,Stevenage FC
+46,Sat May 2 2015,Exeter City FC,2-1,Dagenham & Redbridge FC
+46,Sat May 2 2015,Carlisle United FC,3-3,Hartlepool United FC
+46,Sat May 2 2015,Cambridge United FC,2-3,Burton Albion FC
+46,Sat May 2 2015,AFC Wimbledon,1-1,Cheltenham Town FC
+46,Sat May 2 2015,Accrington Stanley FC,2-1,Mansfield Town FC
+1,Sat Aug 9 2014,Sheffield United FC,1-2,Bristol City FC
+1,Sat Aug 9 2014,Yeovil Town FC,0-3,Doncaster Rovers FC
+1,Sat Aug 9 2014,Swindon Town FC,3-1,Scunthorpe United FC
+1,Sat Aug 9 2014,Rochdale AFC,0-1,Peterborough United FC
+1,Sat Aug 9 2014,Preston North End FC,1-1,Notts County FC
+1,Sat Aug 9 2014,Port Vale FC,1-1,Walsall FC
+1,Sat Aug 9 2014,Milton Keynes Dons FC,4-2,Gillingham FC
+1,Sat Aug 9 2014,Leyton Orient FC,1-2,Chesterfield FC
+1,Sat Aug 9 2014,Fleetwood Town FC,2-1,Crewe Alexandra FC
+1,Sat Aug 9 2014,Colchester United FC,2-2,Oldham Athletic AFC
+1,Sat Aug 9 2014,Bradford City AFC,3-2,Coventry City FC
+1,Sat Aug 9 2014,Barnsley FC,0-1,Crawley Town FC
+2,Sat Aug 16 2014,Walsall FC,0-0,Bradford City AFC
+2,Sat Aug 16 2014,Scunthorpe United FC,0-4,Preston North End FC
+2,Sat Aug 16 2014,Peterborough United FC,3-2,Milton Keynes Dons FC
+2,Sat Aug 16 2014,Oldham Athletic AFC,1-3,Leyton Orient FC
+2,Sat Aug 16 2014,Notts County FC,0-1,Fleetwood Town FC
+2,Sat Aug 16 2014,Gillingham FC,2-0,Yeovil Town FC
+2,Sat Aug 16 2014,Doncaster Rovers FC,1-3,Port Vale FC
+2,Sat Aug 16 2014,Crewe Alexandra FC,1-2,Barnsley FC
+2,Sat Aug 16 2014,Crawley Town FC,1-0,Swindon Town FC
+2,Sat Aug 16 2014,Coventry City FC,1-0,Sheffield United FC
+2,Sat Aug 16 2014,Chesterfield FC,2-1,Rochdale AFC
+2,Sat Aug 16 2014,Bristol City FC,2-1,Colchester United FC
+3,Tue Aug 19 2014,Peterborough United FC,1-2,Sheffield United FC
+3,Tue Aug 19 2014,Walsall FC,1-2,Yeovil Town FC
+3,Tue Aug 19 2014,Scunthorpe United FC,0-2,Fleetwood Town FC
+3,Tue Aug 19 2014,Oldham Athletic AFC,1-1,Port Vale FC
+3,Tue Aug 19 2014,Notts County FC,2-1,Colchester United FC
+3,Tue Aug 19 2014,Gillingham FC,2-2,Swindon Town FC
+3,Tue Aug 19 2014,Doncaster Rovers FC,1-1,Preston North End FC
+3,Tue Aug 19 2014,Crewe Alexandra FC,2-5,Rochdale AFC
+3,Tue Aug 19 2014,Crawley Town FC,1-3,Bradford City AFC
+3,Tue Aug 19 2014,Coventry City FC,2-2,Barnsley FC
+3,Tue Aug 19 2014,Chesterfield FC,0-1,Milton Keynes Dons FC
+3,Tue Aug 19 2014,Bristol City FC,0-0,Leyton Orient FC
+4,Sat Aug 23 2014,Yeovil Town FC,1-1,Scunthorpe United FC
+4,Sat Aug 23 2014,Swindon Town FC,2-0,Crewe Alexandra FC
+4,Sat Aug 23 2014,Sheffield United FC,1-0,Crawley Town FC
+4,Sat Aug 23 2014,Barnsley FC,4-1,Gillingham FC
+4,Sat Aug 23 2014,Preston North End FC,1-0,Oldham Athletic AFC
+4,Sat Aug 23 2014,Port Vale FC,0-2,Notts County FC
+4,Sat Aug 23 2014,Milton Keynes Dons FC,0-0,Coventry City FC
+4,Sat Aug 23 2014,Leyton Orient FC,0-0,Walsall FC
+4,Sat Aug 23 2014,Fleetwood Town FC,0-0,Chesterfield FC
+4,Sat Aug 23 2014,Colchester United FC,0-1,Doncaster Rovers FC
+4,Sat Aug 23 2014,Bradford City AFC,0-1,Peterborough United FC
+4,Sat Aug 23 2014,Rochdale AFC,1-1,Bristol City FC
+5,Sat Aug 30 2014,Yeovil Town FC,1-1,Barnsley FC
+5,Sat Aug 30 2014,Swindon Town FC,1-1,Coventry City FC
+5,Sat Aug 30 2014,Scunthorpe United FC,2-1,Walsall FC
+5,Sat Aug 30 2014,Rochdale AFC,0-2,Bradford City AFC
+5,Sat Aug 30 2014,Preston North End FC,1-1,Sheffield United FC
+5,Sat Aug 30 2014,Port Vale FC,1-2,Chesterfield FC
+5,Sat Aug 30 2014,Milton Keynes Dons FC,2-0,Crawley Town FC
+5,Sat Aug 30 2014,Gillingham FC,2-0,Crewe Alexandra FC
+5,Sat Aug 30 2014,Fleetwood Town FC,1-1,Leyton Orient FC
+5,Sat Aug 30 2014,Colchester United FC,1-3,Peterborough United FC
+5,Sat Aug 30 2014,Doncaster Rovers FC,0-2,Oldham Athletic AFC
+5,Sun Aug 31 2014,Notts County FC,1-2,Bristol City FC
+6,Fri Sep 5 2014,Coventry City FC,1-0,Gillingham FC
+6,Sat Sep 6 2014,Peterborough United FC,3-1,Port Vale FC
+6,Sat Sep 6 2014,Walsall FC,0-0,Colchester United FC
+6,Sat Sep 6 2014,Bradford City AFC,1-3,Yeovil Town FC
+6,Sat Sep 6 2014,Crawley Town FC,0-4,Rochdale AFC
+6,Sat Sep 6 2014,Bristol City FC,2-0,Scunthorpe United FC
+6,Sat Sep 6 2014,Oldham Athletic AFC,1-0,Fleetwood Town FC
+7,Sat Sep 13 2014,Walsall FC,3-1,Preston North End FC
+7,Sat Sep 13 2014,Sheffield United FC,1-0,Rochdale AFC
+7,Sat Sep 13 2014,Peterborough United FC,0-0,Notts County FC
+7,Sat Sep 13 2014,Oldham Athletic AFC,0-0,Gillingham FC
+7,Sat Sep 13 2014,Leyton Orient FC,0-2,Colchester United FC
+7,Sat Sep 13 2014,Crewe Alexandra FC,2-1,Port Vale FC
+7,Sat Sep 13 2014,Crawley Town FC,1-0,Fleetwood Town FC
+7,Sat Sep 13 2014,Barnsley FC,3-5,Milton Keynes Dons FC
+7,Sat Sep 13 2014,Chesterfield FC,4-1,Scunthorpe United FC
+7,Sat Sep 13 2014,Bristol City FC,3-0,Doncaster Rovers FC
+7,Sat Sep 13 2014,Bradford City AFC,1-2,Swindon Town FC
+7,Sat Sep 13 2014,Coventry City FC,2-1,Yeovil Town FC
+8,Tue Sep 16 2014,Yeovil Town FC,1-1,Crewe Alexandra FC
+8,Tue Sep 16 2014,Swindon Town FC,2-2,Oldham Athletic AFC
+8,Tue Sep 16 2014,Scunthorpe United FC,2-1,Coventry City FC
+8,Tue Sep 16 2014,Rochdale AFC,4-0,Walsall FC
+8,Tue Sep 16 2014,Preston North End FC,3-3,Chesterfield FC
+8,Tue Sep 16 2014,Port Vale FC,0-3,Bristol City FC
+8,Tue Sep 16 2014,Notts County FC,1-1,Leyton Orient FC
+8,Tue Sep 16 2014,Milton Keynes Dons FC,1-2,Bradford City AFC
+8,Tue Sep 16 2014,Gillingham FC,2-1,Peterborough United FC
+8,Tue Sep 16 2014,Doncaster Rovers FC,0-0,Crawley Town FC
+8,Tue Sep 16 2014,Colchester United FC,2-3,Sheffield United FC
+8,Wed Sep 17 2014,Fleetwood Town FC,0-0,Barnsley FC
+9,Sat Sep 20 2014,Yeovil Town FC,1-0,Peterborough United FC
+9,Sat Sep 20 2014,Swindon Town FC,5-2,Sheffield United FC
+9,Sat Sep 20 2014,Scunthorpe United FC,1-2,Leyton Orient FC
+9,Sat Sep 20 2014,Rochdale AFC,1-0,Coventry City FC
+9,Sat Sep 20 2014,Preston North End FC,2-0,Crawley Town FC
+9,Sat Sep 20 2014,Colchester United FC,0-0,Bradford City AFC
+9,Sat Sep 20 2014,Notts County FC,0-0,Oldham Athletic AFC
+9,Sat Sep 20 2014,Milton Keynes Dons FC,6-1,Crewe Alexandra FC
+9,Sat Sep 20 2014,Gillingham FC,0-0,Walsall FC
+9,Sat Sep 20 2014,Fleetwood Town FC,3-3,Bristol City FC
+9,Sat Sep 20 2014,Doncaster Rovers FC,3-2,Chesterfield FC
+9,Sat Sep 20 2014,Port Vale FC,2-1,Barnsley FC
+10,Sat Sep 27 2014,Walsall FC,3-0,Doncaster Rovers FC
+10,Sat Sep 27 2014,Sheffield United FC,2-1,Gillingham FC
+10,Sat Sep 27 2014,Peterborough United FC,1-0,Fleetwood Town FC
+10,Sat Sep 27 2014,Oldham Athletic AFC,3-2,Scunthorpe United FC
+10,Sat Sep 27 2014,Leyton Orient FC,2-3,Rochdale AFC
+10,Sat Sep 27 2014,Crewe Alexandra FC,0-3,Colchester United FC
+10,Sat Sep 27 2014,Crawley Town FC,2-0,Yeovil Town FC
+10,Sat Sep 27 2014,Coventry City FC,0-2,Preston North End FC
+10,Sat Sep 27 2014,Chesterfield FC,1-1,Notts County FC
+10,Sat Sep 27 2014,Bristol City FC,3-2,Milton Keynes Dons FC
+10,Sat Sep 27 2014,Barnsley FC,0-3,Swindon Town FC
+10,Sat Sep 27 2014,Bradford City AFC,1-1,Port Vale FC
+6,Tue Sep 30 2014,Crewe Alexandra FC,0-3,Notts County FC
+11,Sat Oct 4 2014,Chesterfield FC,3-2,Sheffield United FC
+11,Sat Oct 4 2014,Yeovil Town FC,0-2,Milton Keynes Dons FC
+11,Sat Oct 4 2014,Walsall FC,1-1,Bristol City FC
+11,Sat Oct 4 2014,Scunthorpe United FC,1-2,Doncaster Rovers FC
+11,Sat Oct 4 2014,Rochdale AFC,0-1,Barnsley FC
+11,Sat Oct 4 2014,Preston North End FC,4-2,Colchester United FC
+11,Sat Oct 4 2014,Peterborough United FC,2-2,Oldham Athletic AFC
+11,Sat Oct 4 2014,Notts County FC,1-0,Gillingham FC
+11,Sat Oct 4 2014,Leyton Orient FC,1-2,Swindon Town FC
+11,Sat Oct 4 2014,Bradford City AFC,2-0,Crewe Alexandra FC
+11,Sat Oct 4 2014,Coventry City FC,2-2,Crawley Town FC
+11,Sat Oct 4 2014,Fleetwood Town FC,1-0,Port Vale FC
+12,Sat Oct 11 2014,Sheffield United FC,2-2,Leyton Orient FC
+12,Sat Oct 11 2014,Port Vale FC,4-1,Yeovil Town FC
+12,Sat Oct 11 2014,Oldham Athletic AFC,2-1,Walsall FC
+12,Sat Oct 11 2014,Bristol City FC,3-2,Chesterfield FC
+12,Sat Oct 11 2014,Crewe Alexandra FC,2-1,Coventry City FC
+12,Sat Oct 11 2014,Crawley Town FC,1-4,Peterborough United FC
+12,Sat Oct 11 2014,Colchester United FC,2-1,Fleetwood Town FC
+12,Sat Oct 11 2014,Gillingham FC,0-3,Scunthorpe United FC
+12,Sun Oct 12 2014,Barnsley FC,3-1,Bradford City AFC
+13,Sat Oct 18 2014,Bradford City AFC,0-2,Sheffield United FC
+13,Sat Oct 18 2014,Walsall FC,0-1,Crewe Alexandra FC
+13,Sat Oct 18 2014,Scunthorpe United FC,1-1,Colchester United FC
+13,Sat Oct 18 2014,Rochdale AFC,1-1,Gillingham FC
+13,Sat Oct 18 2014,Preston North End FC,2-0,Port Vale FC
+13,Sat Oct 18 2014,Yeovil Town FC,1-1,Swindon Town FC
+13,Sat Oct 18 2014,Notts County FC,5-3,Crawley Town FC
+13,Sat Oct 18 2014,Leyton Orient FC,0-0,Milton Keynes Dons FC
+13,Sat Oct 18 2014,Fleetwood Town FC,3-1,Doncaster Rovers FC
+13,Sat Oct 18 2014,Coventry City FC,1-3,Bristol City FC
+13,Sat Oct 18 2014,Chesterfield FC,1-1,Oldham Athletic AFC
+13,Sat Oct 18 2014,Peterborough United FC,2-1,Barnsley FC
+14,Tue Oct 21 2014,Swindon Town FC,2-3,Rochdale AFC
+14,Tue Oct 21 2014,Sheffield United FC,2-0,Yeovil Town FC
+14,Tue Oct 21 2014,Port Vale FC,2-2,Scunthorpe United FC
+14,Tue Oct 21 2014,Oldham Athletic AFC,4-1,Coventry City FC
+14,Tue Oct 21 2014,Milton Keynes Dons FC,2-1,Fleetwood Town FC
+14,Tue Oct 21 2014,Gillingham FC,0-1,Preston North End FC
+14,Tue Oct 21 2014,Doncaster Rovers FC,0-2,Leyton Orient FC
+14,Tue Oct 21 2014,Crewe Alexandra FC,1-0,Peterborough United FC
+14,Tue Oct 21 2014,Crawley Town FC,1-0,Walsall FC
+14,Tue Oct 21 2014,Colchester United FC,2-1,Chesterfield FC
+14,Tue Oct 21 2014,Bristol City FC,2-2,Bradford City AFC
+14,Tue Oct 21 2014,Barnsley FC,2-3,Notts County FC
+15,Sat Oct 25 2014,Yeovil Town FC,0-3,Rochdale AFC
+15,Sat Oct 25 2014,Walsall FC,1-0,Chesterfield FC
+15,Sat Oct 25 2014,Swindon Town FC,2-2,Colchester United FC
+15,Sat Oct 25 2014,Scunthorpe United FC,0-1,Notts County FC
+15,Sat Oct 25 2014,Preston North End FC,3-2,Fleetwood Town FC
+15,Sat Oct 25 2014,Port Vale FC,3-0,Leyton Orient FC
+15,Sat Oct 25 2014,Barnsley FC,2-2,Bristol City FC
+15,Sat Oct 25 2014,Gillingham FC,1-1,Crawley Town FC
+15,Sat Oct 25 2014,Doncaster Rovers FC,0-0,Milton Keynes Dons FC
+15,Sat Oct 25 2014,Crewe Alexandra FC,0-1,Sheffield United FC
+15,Sat Oct 25 2014,Coventry City FC,3-2,Peterborough United FC
+15,Sat Oct 25 2014,Oldham Athletic AFC,2-1,Bradford City AFC
+6,Tue Oct 28 2014,Leyton Orient FC,0-2,Preston North End FC
+6,Tue Oct 28 2014,Chesterfield FC,0-3,Swindon Town FC
+16,Sat Nov 1 2014,Milton Keynes Dons FC,2-1,Swindon Town FC
+16,Sat Nov 1 2014,Rochdale AFC,3-0,Preston North End FC
+16,Sat Nov 1 2014,Peterborough United FC,1-2,Scunthorpe United FC
+16,Sat Nov 1 2014,Notts County FC,1-2,Walsall FC
+16,Sat Nov 1 2014,Sheffield United FC,0-1,Barnsley FC
+16,Sat Nov 1 2014,Leyton Orient FC,2-2,Coventry City FC
+16,Sat Nov 1 2014,Fleetwood Town FC,1-0,Gillingham FC
+16,Sat Nov 1 2014,Crawley Town FC,1-1,Crewe Alexandra FC
+16,Sat Nov 1 2014,Colchester United FC,1-2,Port Vale FC
+16,Sat Nov 1 2014,Chesterfield FC,0-0,Yeovil Town FC
+16,Sat Nov 1 2014,Bristol City FC,1-0,Oldham Athletic AFC
+16,Sat Nov 1 2014,Bradford City AFC,1-2,Doncaster Rovers FC
+12,Tue Nov 4 2014,Swindon Town FC,1-0,Preston North End FC
+17,Fri Nov 14 2014,Barnsley FC,3-2,Colchester United FC
+17,Sat Nov 15 2014,Swindon Town FC,1-0,Bristol City FC
+17,Sat Nov 15 2014,Yeovil Town FC,0-1,Fleetwood Town FC
+17,Sat Nov 15 2014,Walsall FC,0-0,Peterborough United FC
+17,Sat Nov 15 2014,Oldham Athletic AFC,1-1,Crawley Town FC
+17,Sat Nov 15 2014,Preston North End FC,1-2,Bradford City AFC
+17,Sat Nov 15 2014,Port Vale FC,1-0,Rochdale AFC
+17,Sat Nov 15 2014,Gillingham FC,3-2,Leyton Orient FC
+17,Sat Nov 15 2014,Doncaster Rovers FC,0-1,Sheffield United FC
+17,Sat Nov 15 2014,Crewe Alexandra FC,0-0,Chesterfield FC
+17,Sat Nov 15 2014,Coventry City FC,0-1,Notts County FC
+18,Sat Nov 22 2014,Sheffield United FC,1-1,Oldham Athletic AFC
+18,Sat Nov 22 2014,Rochdale AFC,1-3,Doncaster Rovers FC
+18,Sat Nov 22 2014,Peterborough United FC,1-2,Swindon Town FC
+18,Sat Nov 22 2014,Notts County FC,1-2,Yeovil Town FC
+18,Sat Nov 22 2014,Milton Keynes Dons FC,1-0,Port Vale FC
+18,Sat Nov 22 2014,Leyton Orient FC,4-1,Crewe Alexandra FC
+18,Sat Nov 22 2014,Bradford City AFC,1-1,Gillingham FC
+18,Sat Nov 22 2014,Crawley Town FC,2-2,Scunthorpe United FC
+18,Sat Nov 22 2014,Colchester United FC,0-1,Coventry City FC
+18,Sat Nov 22 2014,Chesterfield FC,2-1,Barnsley FC
+18,Sat Nov 22 2014,Bristol City FC,0-1,Preston North End FC
+18,Sat Nov 22 2014,Fleetwood Town FC,0-1,Walsall FC
+12,Tue Nov 25 2014,Milton Keynes Dons FC,2-2,Rochdale AFC
+19,Fri Nov 28 2014,Sheffield United FC,1-1,Notts County FC
+19,Fri Nov 28 2014,Peterborough United FC,0-3,Bristol City FC
+19,Sat Nov 29 2014,Barnsley FC,1-2,Scunthorpe United FC
+19,Sat Nov 29 2014,Swindon Town FC,1-0,Fleetwood Town FC
+19,Sat Nov 29 2014,Rochdale AFC,0-3,Oldham Athletic AFC
+19,Sat Nov 29 2014,Yeovil Town FC,0-2,Preston North End FC
+19,Sat Nov 29 2014,Gillingham FC,2-2,Port Vale FC
+19,Sat Nov 29 2014,Crewe Alexandra FC,1-1,Doncaster Rovers FC
+19,Sat Nov 29 2014,Crawley Town FC,1-1,Chesterfield FC
+19,Sat Nov 29 2014,Coventry City FC,0-0,Walsall FC
+19,Sat Nov 29 2014,Bradford City AFC,3-1,Leyton Orient FC
+19,Sat Nov 29 2014,Milton Keynes Dons FC,6-0,Colchester United FC
+6,Tue Dec 2 2014,Sheffield United FC,0-1,Milton Keynes Dons FC
+6,Tue Dec 2 2014,Barnsley FC,1-1,Doncaster Rovers FC
+20,Sat Dec 13 2014,Oldham Athletic AFC,0-4,Yeovil Town FC
+20,Sat Dec 13 2014,Scunthorpe United FC,2-1,Crewe Alexandra FC
+20,Sat Dec 13 2014,Preston North End FC,1-1,Milton Keynes Dons FC
+20,Sat Dec 13 2014,Port Vale FC,0-2,Coventry City FC
+20,Sat Dec 13 2014,Walsall FC,3-1,Barnsley FC
+20,Sat Dec 13 2014,Notts County FC,0-3,Swindon Town FC
+20,Sat Dec 13 2014,Leyton Orient FC,1-2,Peterborough United FC
+20,Sat Dec 13 2014,Fleetwood Town FC,1-1,Sheffield United FC
+20,Sat Dec 13 2014,Doncaster Rovers FC,1-2,Gillingham FC
+20,Sat Dec 13 2014,Colchester United FC,1-4,Rochdale AFC
+20,Sat Dec 13 2014,Bristol City FC,1-0,Crawley Town FC
+20,Sat Dec 13 2014,Chesterfield FC,0-1,Bradford City AFC
+21,Sat Dec 20 2014,Yeovil Town FC,0-1,Colchester United FC
+21,Sat Dec 20 2014,Swindon Town FC,0-1,Doncaster Rovers FC
+21,Sat Dec 20 2014,Sheffield United FC,1-1,Walsall FC
+21,Sat Dec 20 2014,Rochdale AFC,2-2,Notts County FC
+21,Sat Dec 20 2014,Barnsley FC,2-0,Leyton Orient FC
+21,Sat Dec 20 2014,Milton Keynes Dons FC,7-0,Oldham Athletic AFC
+21,Sat Dec 20 2014,Gillingham FC,2-3,Chesterfield FC
+21,Sat Dec 20 2014,Crewe Alexandra FC,1-0,Bristol City FC
+21,Sat Dec 20 2014,Crawley Town FC,1-2,Port Vale FC
+21,Sat Dec 20 2014,Coventry City FC,1-1,Fleetwood Town FC
+21,Sat Dec 20 2014,Bradford City AFC,1-1,Scunthorpe United FC
+21,Sat Dec 20 2014,Peterborough United FC,0-1,Preston North End FC
+22,Fri Dec 26 2014,Walsall FC,1-4,Swindon Town FC
+22,Fri Dec 26 2014,Scunthorpe United FC,2-1,Rochdale AFC
+22,Fri Dec 26 2014,Preston North End FC,1-0,Barnsley FC
+22,Fri Dec 26 2014,Port Vale FC,2-1,Sheffield United FC
+22,Fri Dec 26 2014,Bristol City FC,2-1,Yeovil Town FC
+22,Fri Dec 26 2014,Notts County FC,0-1,Milton Keynes Dons FC
+22,Fri Dec 26 2014,Leyton Orient FC,4-1,Crawley Town FC
+22,Fri Dec 26 2014,Fleetwood Town FC,0-2,Bradford City AFC
+22,Fri Dec 26 2014,Doncaster Rovers FC,2-0,Coventry City FC
+22,Fri Dec 26 2014,Colchester United FC,1-2,Gillingham FC
+22,Fri Dec 26 2014,Chesterfield FC,3-2,Peterborough United FC
+22,Fri Dec 26 2014,Oldham Athletic AFC,1-2,Crewe Alexandra FC
+23,Sun Dec 28 2014,Swindon Town FC,1-0,Port Vale FC
+23,Sun Dec 28 2014,Rochdale AFC,0-2,Fleetwood Town FC
+23,Sun Dec 28 2014,Peterborough United FC,0-0,Doncaster Rovers FC
+23,Sun Dec 28 2014,Milton Keynes Dons FC,0-3,Walsall FC
+23,Sun Dec 28 2014,Crawley Town FC,0-0,Colchester United FC
+23,Sun Dec 28 2014,Coventry City FC,0-0,Chesterfield FC
+23,Sun Dec 28 2014,Bradford City AFC,1-0,Notts County FC
+23,Sun Dec 28 2014,Gillingham FC,1-3,Bristol City FC
+23,Sun Dec 28 2014,Crewe Alexandra FC,1-1,Preston North End FC
+23,Mon Dec 29 2014,Yeovil Town FC,0-3,Leyton Orient FC
+24,Sat Jan 3 2015,Walsall FC,0-2,Coventry City FC
+24,Sat Jan 3 2015,Port Vale FC,2-1,Gillingham FC
+24,Sat Jan 3 2015,Fleetwood Town FC,2-2,Swindon Town FC
+25,Sat Jan 10 2015,Crewe Alexandra FC,3-1,Gillingham FC
+25,Sat Jan 10 2015,Chesterfield FC,3-0,Port Vale FC
+25,Sat Jan 10 2015,Peterborough United FC,0-2,Colchester United FC
+25,Sat Jan 10 2015,Sheffield United FC,2-1,Preston North End FC
+25,Sat Jan 10 2015,Crawley Town FC,2-2,Milton Keynes Dons FC
+25,Sat Jan 10 2015,Leyton Orient FC,0-1,Fleetwood Town FC
+25,Sat Jan 10 2015,Bristol City FC,4-0,Notts County FC
+25,Sat Jan 10 2015,Bradford City AFC,1-2,Rochdale AFC
+25,Sat Jan 10 2015,Barnsley FC,2-0,Yeovil Town FC
+25,Sat Jan 10 2015,Oldham Athletic AFC,2-2,Doncaster Rovers FC
+25,Sat Jan 10 2015,Walsall FC,1-4,Scunthorpe United FC
+25,Mon Jan 12 2015,Coventry City FC,0-3,Swindon Town FC
+26,Fri Jan 16 2015,Preston North End FC,2-2,Leyton Orient FC
+26,Sat Jan 17 2015,Port Vale FC,2-1,Peterborough United FC
+26,Sat Jan 17 2015,Swindon Town FC,3-1,Chesterfield FC
+26,Sat Jan 17 2015,Scunthorpe United FC,0-2,Bristol City FC
+26,Sat Jan 17 2015,Rochdale AFC,4-1,Crawley Town FC
+26,Sat Jan 17 2015,Yeovil Town FC,1-0,Bradford City AFC
+26,Sat Jan 17 2015,Notts County FC,2-1,Crewe Alexandra FC
+26,Sat Jan 17 2015,Milton Keynes Dons FC,1-0,Sheffield United FC
+26,Sat Jan 17 2015,Gillingham FC,3-1,Coventry City FC
+26,Sat Jan 17 2015,Fleetwood Town FC,0-2,Oldham Athletic AFC
+26,Sat Jan 17 2015,Colchester United FC,0-2,Walsall FC
+26,Sat Jan 17 2015,Doncaster Rovers FC,1-0,Barnsley FC
+12,Tue Jan 20 2015,Doncaster Rovers FC,0-0,Notts County FC
+24,Tue Jan 20 2015,Preston North End FC,1-1,Yeovil Town FC
+27,Sat Jan 24 2015,Notts County FC,1-2,Peterborough United FC
+27,Sat Jan 24 2015,Port Vale FC,0-1,Crewe Alexandra FC
+27,Sat Jan 24 2015,Yeovil Town FC,0-0,Coventry City FC
+27,Sat Jan 24 2015,Colchester United FC,2-0,Leyton Orient FC
+27,Sat Jan 24 2015,Gillingham FC,3-2,Oldham Athletic AFC
+27,Sat Jan 24 2015,Fleetwood Town FC,1-0,Crawley Town FC
+27,Sat Jan 24 2015,Milton Keynes Dons FC,2-0,Barnsley FC
+17,Tue Jan 27 2015,Scunthorpe United FC,1-1,Milton Keynes Dons FC
+24,Tue Jan 27 2015,Chesterfield FC,3-0,Crawley Town FC
+28,Sat Jan 31 2015,Peterborough United FC,1-0,Yeovil Town FC
+28,Sat Jan 31 2015,Oldham Athletic AFC,3-0,Notts County FC
+28,Sat Jan 31 2015,Leyton Orient FC,1-4,Scunthorpe United FC
+28,Sat Jan 31 2015,Crewe Alexandra FC,0-5,Milton Keynes Dons FC
+28,Sat Jan 31 2015,Crawley Town FC,2-1,Preston North End FC
+28,Sat Jan 31 2015,Sheffield United FC,2-0,Swindon Town FC
+28,Sat Jan 31 2015,Chesterfield FC,2-2,Doncaster Rovers FC
+28,Sat Jan 31 2015,Bradford City AFC,1-1,Colchester United FC
+28,Sat Jan 31 2015,Barnsley FC,2-1,Port Vale FC
+28,Sat Jan 31 2015,Coventry City FC,2-2,Rochdale AFC
+28,Sun Feb 1 2015,Bristol City FC,2-0,Fleetwood Town FC
+28,Sun Feb 1 2015,Walsall FC,1-1,Gillingham FC
+23,Tue Feb 3 2015,Barnsley FC,1-0,Oldham Athletic AFC
+29,Sat Feb 7 2015,Port Vale FC,2-2,Bradford City AFC
+29,Sat Feb 7 2015,Swindon Town FC,2-0,Barnsley FC
+29,Sat Feb 7 2015,Scunthorpe United FC,0-1,Oldham Athletic AFC
+29,Sat Feb 7 2015,Preston North End FC,1-0,Coventry City FC
+29,Sat Feb 7 2015,Colchester United FC,2-3,Crewe Alexandra FC
+29,Sat Feb 7 2015,Notts County FC,0-1,Chesterfield FC
+29,Sat Feb 7 2015,Milton Keynes Dons FC,0-0,Bristol City FC
+29,Sat Feb 7 2015,Gillingham FC,2-0,Sheffield United FC
+29,Sat Feb 7 2015,Fleetwood Town FC,1-1,Peterborough United FC
+29,Sat Feb 7 2015,Doncaster Rovers FC,0-2,Walsall FC
+29,Sat Feb 7 2015,Yeovil Town FC,2-1,Crawley Town FC
+30,Mon Feb 9 2015,Bradford City AFC,2-1,Milton Keynes Dons FC
+30,Tue Feb 10 2015,Walsall FC,3-2,Rochdale AFC
+30,Tue Feb 10 2015,Sheffield United FC,4-1,Colchester United FC
+30,Tue Feb 10 2015,Peterborough United FC,1-2,Gillingham FC
+30,Tue Feb 10 2015,Oldham Athletic AFC,2-1,Swindon Town FC
+30,Tue Feb 10 2015,Leyton Orient FC,0-1,Notts County FC
+30,Tue Feb 10 2015,Crewe Alexandra FC,1-0,Yeovil Town FC
+30,Tue Feb 10 2015,Crawley Town FC,0-5,Doncaster Rovers FC
+30,Tue Feb 10 2015,Coventry City FC,1-1,Scunthorpe United FC
+30,Tue Feb 10 2015,Chesterfield FC,0-2,Preston North End FC
+30,Tue Feb 10 2015,Barnsley FC,1-2,Fleetwood Town FC
+30,Tue Feb 10 2015,Bristol City FC,3-1,Port Vale FC
+31,Sat Feb 14 2015,Walsall FC,0-1,Port Vale FC
+31,Sat Feb 14 2015,Bristol City FC,1-3,Sheffield United FC
+31,Sat Feb 14 2015,Peterborough United FC,2-1,Rochdale AFC
+31,Sat Feb 14 2015,Oldham Athletic AFC,0-1,Colchester United FC
+31,Sat Feb 14 2015,Gillingham FC,4-2,Milton Keynes Dons FC
+31,Sat Feb 14 2015,Doncaster Rovers FC,3-0,Yeovil Town FC
+31,Sat Feb 14 2015,Crewe Alexandra FC,2-0,Fleetwood Town FC
+31,Sat Feb 14 2015,Crawley Town FC,5-1,Barnsley FC
+31,Sat Feb 14 2015,Chesterfield FC,2-3,Leyton Orient FC
+31,Sat Feb 14 2015,Scunthorpe United FC,3-1,Swindon Town FC
+24,Tue Feb 17 2015,Bristol City FC,2-0,Peterborough United FC
+24,Tue Feb 17 2015,Notts County FC,1-2,Sheffield United FC
+24,Tue Feb 17 2015,Doncaster Rovers FC,2-1,Crewe Alexandra FC
+24,Tue Feb 17 2015,Colchester United FC,0-1,Milton Keynes Dons FC
+27,Tue Feb 17 2015,Scunthorpe United FC,2-0,Chesterfield FC
+24,Wed Feb 18 2015,Leyton Orient FC,0-2,Bradford City AFC
+32,Sat Feb 21 2015,Port Vale FC,3-0,Doncaster Rovers FC
+32,Sat Feb 21 2015,Swindon Town FC,1-2,Crawley Town FC
+32,Sat Feb 21 2015,Sheffield United FC,2-2,Coventry City FC
+32,Sat Feb 21 2015,Rochdale AFC,1-0,Chesterfield FC
+32,Sat Feb 21 2015,Preston North End FC,2-0,Scunthorpe United FC
+32,Sat Feb 21 2015,Yeovil Town FC,2-2,Gillingham FC
+32,Sat Feb 21 2015,Milton Keynes Dons FC,3-0,Peterborough United FC
+32,Sat Feb 21 2015,Leyton Orient FC,3-0,Oldham Athletic AFC
+32,Sat Feb 21 2015,Fleetwood Town FC,2-1,Notts County FC
+32,Sat Feb 21 2015,Colchester United FC,3-2,Bristol City FC
+32,Sat Feb 21 2015,Bradford City AFC,1-1,Walsall FC
+32,Sat Feb 21 2015,Barnsley FC,2-0,Crewe Alexandra FC
+24,Tue Feb 24 2015,Scunthorpe United FC,0-1,Barnsley FC
+27,Tue Feb 24 2015,Swindon Town FC,2-1,Bradford City AFC
+27,Tue Feb 24 2015,Rochdale AFC,1-2,Sheffield United FC
+27,Tue Feb 24 2015,Preston North End FC,1-0,Walsall FC
+27,Tue Feb 24 2015,Doncaster Rovers FC,1-3,Bristol City FC
+33,Sat Feb 28 2015,Oldham Athletic AFC,0-4,Preston North End FC
+33,Sat Feb 28 2015,Scunthorpe United FC,1-1,Yeovil Town FC
+33,Sat Feb 28 2015,Bristol City FC,1-0,Rochdale AFC
+33,Sat Feb 28 2015,Walsall FC,0-2,Leyton Orient FC
+33,Sat Feb 28 2015,Notts County FC,0-1,Port Vale FC
+33,Sat Feb 28 2015,Gillingham FC,0-1,Barnsley FC
+33,Sat Feb 28 2015,Doncaster Rovers FC,2-0,Colchester United FC
+33,Sat Feb 28 2015,Crewe Alexandra FC,0-0,Swindon Town FC
+33,Sat Feb 28 2015,Crawley Town FC,1-1,Sheffield United FC
+33,Sat Feb 28 2015,Coventry City FC,2-1,Milton Keynes Dons FC
+33,Sat Feb 28 2015,Chesterfield FC,3-0,Fleetwood Town FC
+33,Sat Feb 28 2015,Peterborough United FC,2-0,Bradford City AFC
+34,Tue Mar 3 2015,Sheffield United FC,1-2,Peterborough United FC
+34,Tue Mar 3 2015,Yeovil Town FC,0-1,Walsall FC
+34,Tue Mar 3 2015,Swindon Town FC,0-3,Gillingham FC
+34,Tue Mar 3 2015,Barnsley FC,1-0,Coventry City FC
+34,Tue Mar 3 2015,Preston North End FC,2-2,Doncaster Rovers FC
+34,Tue Mar 3 2015,Port Vale FC,0-1,Oldham Athletic AFC
+34,Tue Mar 3 2015,Milton Keynes Dons FC,1-2,Chesterfield FC
+34,Tue Mar 3 2015,Leyton Orient FC,1-3,Bristol City FC
+34,Tue Mar 3 2015,Fleetwood Town FC,2-2,Scunthorpe United FC
+34,Tue Mar 3 2015,Colchester United FC,0-1,Notts County FC
+34,Tue Mar 3 2015,Bradford City AFC,1-0,Crawley Town FC
+34,Tue Mar 3 2015,Rochdale AFC,4-0,Crewe Alexandra FC
+35,Sat Mar 7 2015,Yeovil Town FC,2-1,Oldham Athletic AFC
+35,Sat Mar 7 2015,Swindon Town FC,3-0,Notts County FC
+35,Sat Mar 7 2015,Sheffield United FC,1-2,Fleetwood Town FC
+35,Sat Mar 7 2015,Rochdale AFC,2-1,Colchester United FC
+35,Sat Mar 7 2015,Peterborough United FC,1-0,Leyton Orient FC
+35,Sat Mar 7 2015,Milton Keynes Dons FC,0-2,Preston North End FC
+35,Sat Mar 7 2015,Gillingham FC,1-1,Doncaster Rovers FC
+35,Sat Mar 7 2015,Crewe Alexandra FC,2-0,Scunthorpe United FC
+35,Sat Mar 7 2015,Crawley Town FC,1-2,Bristol City FC
+35,Sat Mar 7 2015,Coventry City FC,2-3,Port Vale FC
+35,Sat Mar 7 2015,Barnsley FC,3-0,Walsall FC
+31,Tue Mar 10 2015,Coventry City FC,1-1,Bradford City AFC
+38,Tue Mar 10 2015,Yeovil Town FC,0-3,Bristol City FC
+36,Sat Mar 14 2015,Notts County FC,1-1,Bradford City AFC
+36,Sat Mar 14 2015,Scunthorpe United FC,1-1,Sheffield United FC
+36,Sat Mar 14 2015,Preston North End FC,5-1,Crewe Alexandra FC
+36,Sat Mar 14 2015,Bristol City FC,0-0,Gillingham FC
+36,Sat Mar 14 2015,Oldham Athletic AFC,1-3,Barnsley FC
+36,Sat Mar 14 2015,Walsall FC,1-1,Milton Keynes Dons FC
+36,Sat Mar 14 2015,Leyton Orient FC,3-0,Yeovil Town FC
+36,Sat Mar 14 2015,Fleetwood Town FC,1-0,Rochdale AFC
+36,Sat Mar 14 2015,Doncaster Rovers FC,0-2,Peterborough United FC
+36,Sat Mar 14 2015,Colchester United FC,2-3,Crawley Town FC
+36,Sat Mar 14 2015,Chesterfield FC,2-3,Coventry City FC
+36,Sat Mar 14 2015,Port Vale FC,0-1,Swindon Town FC
+37,Tue Mar 17 2015,Walsall FC,1-1,Sheffield United FC
+37,Tue Mar 17 2015,Preston North End FC,2-0,Peterborough United FC
+37,Tue Mar 17 2015,Port Vale FC,2-3,Crawley Town FC
+37,Tue Mar 17 2015,Oldham Athletic AFC,1-3,Milton Keynes Dons FC
+37,Tue Mar 17 2015,Notts County FC,1-2,Rochdale AFC
+37,Tue Mar 17 2015,Leyton Orient FC,0-0,Barnsley FC
+37,Tue Mar 17 2015,Fleetwood Town FC,0-2,Coventry City FC
+37,Tue Mar 17 2015,Doncaster Rovers FC,1-2,Swindon Town FC
+37,Tue Mar 17 2015,Colchester United FC,2-0,Yeovil Town FC
+37,Tue Mar 17 2015,Chesterfield FC,3-0,Gillingham FC
+37,Tue Mar 17 2015,Bristol City FC,3-0,Crewe Alexandra FC
+38,Sat Mar 21 2015,Sheffield United FC,1-0,Port Vale FC
+38,Sat Mar 21 2015,Rochdale AFC,3-1,Scunthorpe United FC
+38,Sat Mar 21 2015,Peterborough United FC,1-0,Chesterfield FC
+38,Sat Mar 21 2015,Milton Keynes Dons FC,4-1,Notts County FC
+38,Sat Mar 21 2015,Gillingham FC,2-2,Colchester United FC
+38,Sat Mar 21 2015,Crewe Alexandra FC,0-1,Oldham Athletic AFC
+38,Sat Mar 21 2015,Barnsley FC,1-1,Preston North End FC
+38,Sat Mar 21 2015,Coventry City FC,1-3,Doncaster Rovers FC
+38,Sat Mar 21 2015,Bradford City AFC,2-2,Fleetwood Town FC
+38,Sat Mar 21 2015,Crawley Town FC,1-0,Leyton Orient FC
+23,Tue Mar 24 2015,Sheffield United FC,4-0,Scunthorpe United FC
+24,Tue Mar 24 2015,Oldham Athletic AFC,3-0,Rochdale AFC
+39,Sat Mar 28 2015,Notts County FC,2-2,Scunthorpe United FC
+39,Sat Mar 28 2015,Rochdale AFC,2-1,Yeovil Town FC
+39,Sat Mar 28 2015,Peterborough United FC,0-1,Coventry City FC
+39,Sat Mar 28 2015,Sheffield United FC,1-2,Crewe Alexandra FC
+39,Sat Mar 28 2015,Bradford City AFC,2-0,Oldham Athletic AFC
+39,Sat Mar 28 2015,Crawley Town FC,1-2,Gillingham FC
+39,Sat Mar 28 2015,Chesterfield FC,1-0,Walsall FC
+39,Sat Mar 28 2015,Bristol City FC,2-2,Barnsley FC
+39,Sat Mar 28 2015,Leyton Orient FC,3-1,Port Vale FC
+39,Sun Mar 29 2015,Fleetwood Town FC,1-1,Preston North End FC
+35,Tue Mar 31 2015,Bradford City AFC,0-1,Chesterfield FC
+40,Wed Apr 1 2015,Coventry City FC,0-1,Leyton Orient FC
+40,Fri Apr 3 2015,Yeovil Town FC,2-3,Chesterfield FC
+40,Fri Apr 3 2015,Walsall FC,0-0,Notts County FC
+40,Fri Apr 3 2015,Scunthorpe United FC,2-0,Peterborough United FC
+40,Fri Apr 3 2015,Preston North End FC,1-0,Rochdale AFC
+40,Fri Apr 3 2015,Port Vale FC,1-2,Colchester United FC
+40,Fri Apr 3 2015,Doncaster Rovers FC,0-3,Bradford City AFC
+40,Fri Apr 3 2015,Gillingham FC,0-1,Fleetwood Town FC
+40,Fri Apr 3 2015,Crewe Alexandra FC,0-0,Crawley Town FC
+40,Fri Apr 3 2015,Oldham Athletic AFC,1-1,Bristol City FC
+40,Sat Apr 4 2015,Barnsley FC,0-2,Sheffield United FC
+40,Sat Apr 4 2015,Swindon Town FC,0-3,Milton Keynes Dons FC
+41,Mon Apr 6 2015,Rochdale AFC,1-0,Port Vale FC
+41,Mon Apr 6 2015,Peterborough United FC,0-0,Walsall FC
+41,Mon Apr 6 2015,Notts County FC,0-0,Coventry City FC
+41,Mon Apr 6 2015,Leyton Orient FC,3-3,Gillingham FC
+41,Mon Apr 6 2015,Fleetwood Town FC,4-0,Yeovil Town FC
+41,Mon Apr 6 2015,Crawley Town FC,2-0,Oldham Athletic AFC
+41,Mon Apr 6 2015,Bradford City AFC,0-3,Preston North End FC
+41,Mon Apr 6 2015,Chesterfield FC,1-0,Crewe Alexandra FC
+41,Mon Apr 6 2015,Colchester United FC,3-1,Barnsley FC
+41,Tue Apr 7 2015,Sheffield United FC,3-2,Doncaster Rovers FC
+41,Tue Apr 7 2015,Milton Keynes Dons FC,2-0,Scunthorpe United FC
+41,Tue Apr 7 2015,Bristol City FC,3-0,Swindon Town FC
+42,Sat Apr 11 2015,Barnsley FC,1-1,Chesterfield FC
+42,Sat Apr 11 2015,Walsall FC,1-0,Fleetwood Town FC
+42,Sat Apr 11 2015,Swindon Town FC,1-0,Peterborough United FC
+42,Sat Apr 11 2015,Scunthorpe United FC,2-1,Crawley Town FC
+42,Sat Apr 11 2015,Yeovil Town FC,1-1,Notts County FC
+42,Sat Apr 11 2015,Port Vale FC,0-0,Milton Keynes Dons FC
+42,Sat Apr 11 2015,Oldham Athletic AFC,2-2,Sheffield United FC
+42,Sat Apr 11 2015,Gillingham FC,1-0,Bradford City AFC
+42,Sat Apr 11 2015,Doncaster Rovers FC,1-1,Rochdale AFC
+42,Sat Apr 11 2015,Crewe Alexandra FC,1-1,Leyton Orient FC
+42,Sat Apr 11 2015,Coventry City FC,1-0,Colchester United FC
+42,Sat Apr 11 2015,Preston North End FC,1-1,Bristol City FC
+43,Tue Apr 14 2015,Yeovil Town FC,1-0,Sheffield United FC
+43,Tue Apr 14 2015,Walsall FC,5-0,Crawley Town FC
+43,Tue Apr 14 2015,Scunthorpe United FC,1-1,Port Vale FC
+43,Tue Apr 14 2015,Rochdale AFC,2-4,Swindon Town FC
+43,Tue Apr 14 2015,Preston North End FC,2-2,Gillingham FC
+43,Tue Apr 14 2015,Peterborough United FC,1-1,Crewe Alexandra FC
+43,Tue Apr 14 2015,Notts County FC,1-1,Barnsley FC
+43,Tue Apr 14 2015,Leyton Orient FC,0-1,Doncaster Rovers FC
+43,Tue Apr 14 2015,Fleetwood Town FC,0-3,Milton Keynes Dons FC
+43,Tue Apr 14 2015,Coventry City FC,1-1,Oldham Athletic AFC
+43,Tue Apr 14 2015,Chesterfield FC,6-0,Colchester United FC
+43,Tue Apr 14 2015,Bradford City AFC,0-6,Bristol City FC
+44,Fri Apr 17 2015,Port Vale FC,2-2,Preston North End FC
+44,Sat Apr 18 2015,Swindon Town FC,0-1,Yeovil Town FC
+44,Sat Apr 18 2015,Sheffield United FC,1-1,Bradford City AFC
+44,Sat Apr 18 2015,Oldham Athletic AFC,0-0,Chesterfield FC
+44,Sat Apr 18 2015,Milton Keynes Dons FC,6-1,Leyton Orient FC
+44,Sat Apr 18 2015,Gillingham FC,1-0,Rochdale AFC
+44,Sat Apr 18 2015,Doncaster Rovers FC,0-0,Fleetwood Town FC
+44,Sat Apr 18 2015,Barnsley FC,1-1,Peterborough United FC
+44,Sat Apr 18 2015,Crawley Town FC,2-0,Notts County FC
+44,Sat Apr 18 2015,Colchester United FC,2-2,Scunthorpe United FC
+44,Sat Apr 18 2015,Bristol City FC,0-0,Coventry City FC
+44,Sat Apr 18 2015,Crewe Alexandra FC,1-1,Walsall FC
+29,Tue Apr 21 2015,Rochdale AFC,1-0,Leyton Orient FC
+31,Tue Apr 21 2015,Notts County FC,1-3,Preston North End FC
+37,Tue Apr 21 2015,Scunthorpe United FC,1-1,Bradford City AFC
+38,Tue Apr 21 2015,Swindon Town FC,3-3,Walsall FC
+39,Tue Apr 21 2015,Milton Keynes Dons FC,3-0,Doncaster Rovers FC
+45,Sat Apr 25 2015,Preston North End FC,3-0,Swindon Town FC
+45,Sat Apr 25 2015,Walsall FC,2-0,Oldham Athletic AFC
+45,Sat Apr 25 2015,Scunthorpe United FC,2-1,Gillingham FC
+45,Sat Apr 25 2015,Rochdale AFC,2-3,Milton Keynes Dons FC
+45,Sat Apr 25 2015,Yeovil Town FC,1-2,Port Vale FC
+45,Sat Apr 25 2015,Peterborough United FC,4-3,Crawley Town FC
+45,Sat Apr 25 2015,Notts County FC,2-1,Doncaster Rovers FC
+45,Sat Apr 25 2015,Leyton Orient FC,1-1,Sheffield United FC
+45,Sat Apr 25 2015,Fleetwood Town FC,2-3,Colchester United FC
+45,Sat Apr 25 2015,Coventry City FC,1-3,Crewe Alexandra FC
+45,Sat Apr 25 2015,Chesterfield FC,0-2,Bristol City FC
+45,Sat Apr 25 2015,Bradford City AFC,1-0,Barnsley FC
+39,Tue Apr 28 2015,Colchester United FC,1-1,Swindon Town FC
+46,Sun May 3 2015,Gillingham FC,3-1,Notts County FC
+46,Sun May 3 2015,Sheffield United FC,1-1,Chesterfield FC
+46,Sun May 3 2015,Port Vale FC,1-2,Fleetwood Town FC
+46,Sun May 3 2015,Oldham Athletic AFC,1-1,Peterborough United FC
+46,Sun May 3 2015,Milton Keynes Dons FC,5-1,Yeovil Town FC
+46,Sun May 3 2015,Swindon Town FC,2-2,Leyton Orient FC
+46,Sun May 3 2015,Doncaster Rovers FC,5-2,Scunthorpe United FC
+46,Sun May 3 2015,Crewe Alexandra FC,0-1,Bradford City AFC
+46,Sun May 3 2015,Crawley Town FC,1-2,Coventry City FC
+46,Sun May 3 2015,Colchester United FC,1-0,Preston North End FC
+46,Sun May 3 2015,Bristol City FC,8-2,Walsall FC
+46,Sun May 3 2015,Barnsley FC,5-0,Rochdale AFC
+1,Fri Aug 8 2014,Blackburn Rovers FC,1-1,Cardiff City FC
+1,Sat Aug 9 2014,Wigan Athletic FC,2-2,Reading FC
+1,Sat Aug 9 2014,Watford FC,3-0,Bolton Wanderers FC
+1,Sat Aug 9 2014,Nottingham Forest FC,2-0,Blackpool FC
+1,Sat Aug 9 2014,Millwall FC,2-0,Leeds United FC
+1,Sat Aug 9 2014,Middlesbrough FC,2-0,Birmingham City FC
+1,Sat Aug 9 2014,Huddersfield Town AFC,0-4,AFC Bournemouth
+1,Sat Aug 9 2014,Derby County FC,1-0,Rotherham United FC
+1,Sat Aug 9 2014,Brighton & Hove Albion FC,0-1,Sheffield Wednesday FC
+1,Sat Aug 9 2014,Brentford FC,1-1,Charlton Athletic FC
+1,Sat Aug 9 2014,Ipswich Town FC,2-1,Fulham FC
+1,Sun Aug 10 2014,Wolverhampton Wanderers FC,1-0,Norwich City FC
+2,Sat Aug 16 2014,Leeds United FC,1-0,Middlesbrough FC
+2,Sat Aug 16 2014,Sheffield Wednesday FC,0-0,Derby County FC
+2,Sat Aug 16 2014,Rotherham United FC,1-0,Wolverhampton Wanderers FC
+2,Sat Aug 16 2014,Reading FC,1-0,Ipswich Town FC
+2,Sat Aug 16 2014,Norwich City FC,3-0,Watford FC
+2,Sat Aug 16 2014,Fulham FC,0-1,Millwall FC
+2,Sat Aug 16 2014,Charlton Athletic FC,2-1,Wigan Athletic FC
+2,Sat Aug 16 2014,Cardiff City FC,3-1,Huddersfield Town AFC
+2,Sat Aug 16 2014,AFC Bournemouth,1-0,Brentford FC
+2,Sat Aug 16 2014,Bolton Wanderers FC,2-2,Nottingham Forest FC
+2,Sat Aug 16 2014,Blackpool FC,1-2,Blackburn Rovers FC
+2,Sat Aug 16 2014,Birmingham City FC,1-0,Brighton & Hove Albion FC
+3,Tue Aug 19 2014,Sheffield Wednesday FC,1-1,Millwall FC
+3,Tue Aug 19 2014,Rotherham United FC,0-2,Watford FC
+3,Tue Aug 19 2014,Norwich City FC,3-1,Blackburn Rovers FC
+3,Tue Aug 19 2014,Leeds United FC,0-2,Brighton & Hove Albion FC
+3,Tue Aug 19 2014,Charlton Athletic FC,3-2,Derby County FC
+3,Tue Aug 19 2014,Cardiff City FC,1-0,Wigan Athletic FC
+3,Tue Aug 19 2014,AFC Bournemouth,1-2,Nottingham Forest FC
+3,Tue Aug 19 2014,Blackpool FC,1-2,Brentford FC
+3,Tue Aug 19 2014,Birmingham City FC,2-2,Ipswich Town FC
+3,Tue Aug 19 2014,Reading FC,1-2,Huddersfield Town AFC
+3,Tue Aug 19 2014,Bolton Wanderers FC,1-2,Middlesbrough FC
+3,Wed Aug 20 2014,Fulham FC,0-1,Wolverhampton Wanderers FC
+4,Sat Aug 23 2014,Ipswich Town FC,0-1,Norwich City FC
+4,Sat Aug 23 2014,Wolverhampton Wanderers FC,1-0,Cardiff City FC
+4,Sat Aug 23 2014,Wigan Athletic FC,1-0,Blackpool FC
+4,Sat Aug 23 2014,Watford FC,4-1,Leeds United FC
+4,Sat Aug 23 2014,Nottingham Forest FC,4-0,Reading FC
+4,Sat Aug 23 2014,Millwall FC,0-1,Rotherham United FC
+4,Sat Aug 23 2014,Middlesbrough FC,2-3,Sheffield Wednesday FC
+4,Sat Aug 23 2014,Huddersfield Town AFC,1-1,Charlton Athletic FC
+4,Sat Aug 23 2014,Derby County FC,5-1,Fulham FC
+4,Sat Aug 23 2014,Brighton & Hove Albion FC,2-1,Bolton Wanderers FC
+4,Sat Aug 23 2014,Brentford FC,1-1,Birmingham City FC
+4,Sat Aug 23 2014,Blackburn Rovers FC,3-2,AFC Bournemouth
+5,Sat Aug 30 2014,Sheffield Wednesday FC,0-1,Nottingham Forest FC
+5,Sat Aug 30 2014,Wolverhampton Wanderers FC,3-1,Blackburn Rovers FC
+5,Sat Aug 30 2014,Wigan Athletic FC,4-0,Birmingham City FC
+5,Sat Aug 30 2014,Watford FC,4-2,Huddersfield Town AFC
+5,Sat Aug 30 2014,Rotherham United FC,0-2,Brentford FC
+5,Sat Aug 30 2014,Norwich City FC,1-1,AFC Bournemouth
+5,Sat Aug 30 2014,Millwall FC,2-1,Blackpool FC
+5,Sat Aug 30 2014,Middlesbrough FC,0-1,Reading FC
+5,Sat Aug 30 2014,Leeds United FC,1-0,Bolton Wanderers FC
+5,Sat Aug 30 2014,Fulham FC,1-1,Cardiff City FC
+5,Sat Aug 30 2014,Derby County FC,1-1,Ipswich Town FC
+5,Sat Aug 30 2014,Brighton & Hove Albion FC,2-2,Charlton Athletic FC
+6,Sat Sep 13 2014,Birmingham City FC,1-1,Leeds United FC
+6,Sat Sep 13 2014,Reading FC,3-0,Fulham FC
+6,Sat Sep 13 2014,Ipswich Town FC,2-0,Millwall FC
+6,Sat Sep 13 2014,Huddersfield Town AFC,1-2,Middlesbrough FC
+6,Sat Sep 13 2014,Charlton Athletic FC,1-0,Watford FC
+6,Sat Sep 13 2014,Cardiff City FC,2-4,Norwich City FC
+6,Sat Sep 13 2014,Brentford FC,3-2,Brighton & Hove Albion FC
+6,Sat Sep 13 2014,AFC Bournemouth,1-1,Rotherham United FC
+6,Sat Sep 13 2014,Bolton Wanderers FC,0-0,Sheffield Wednesday FC
+6,Sat Sep 13 2014,Blackpool FC,0-0,Wolverhampton Wanderers FC
+6,Sat Sep 13 2014,Blackburn Rovers FC,3-1,Wigan Athletic FC
+6,Sun Sep 14 2014,Nottingham Forest FC,1-1,Derby County FC
+7,Tue Sep 16 2014,Ipswich Town FC,2-0,Brighton & Hove Albion FC
+7,Tue Sep 16 2014,Huddersfield Town AFC,0-0,Wigan Athletic FC
+7,Tue Sep 16 2014,Charlton Athletic FC,1-1,Wolverhampton Wanderers FC
+7,Tue Sep 16 2014,Cardiff City FC,0-1,Middlesbrough FC
+7,Tue Sep 16 2014,Brentford FC,0-3,Norwich City FC
+7,Tue Sep 16 2014,AFC Bournemouth,1-3,Leeds United FC
+7,Tue Sep 16 2014,Blackpool FC,0-1,Watford FC
+7,Tue Sep 16 2014,Birmingham City FC,0-2,Sheffield Wednesday FC
+7,Tue Sep 16 2014,Reading FC,3-2,Millwall FC
+7,Tue Sep 16 2014,Bolton Wanderers FC,3-2,Rotherham United FC
+7,Wed Sep 17 2014,Nottingham Forest FC,5-3,Fulham FC
+7,Wed Sep 17 2014,Blackburn Rovers FC,2-3,Derby County FC
+8,Sat Sep 20 2014,Watford FC,1-1,AFC Bournemouth
+8,Sat Sep 20 2014,Wolverhampton Wanderers FC,1-0,Bolton Wanderers FC
+8,Sat Sep 20 2014,Sheffield Wednesday FC,1-0,Reading FC
+8,Sat Sep 20 2014,Rotherham United FC,1-1,Charlton Athletic FC
+8,Sat Sep 20 2014,Norwich City FC,2-2,Birmingham City FC
+8,Sat Sep 20 2014,Millwall FC,0-0,Nottingham Forest FC
+8,Sat Sep 20 2014,Middlesbrough FC,4-0,Brentford FC
+8,Sat Sep 20 2014,Leeds United FC,3-0,Huddersfield Town AFC
+8,Sat Sep 20 2014,Fulham FC,0-1,Blackburn Rovers FC
+8,Sat Sep 20 2014,Derby County FC,2-2,Cardiff City FC
+8,Sat Sep 20 2014,Brighton & Hove Albion FC,0-0,Blackpool FC
+8,Mon Sep 22 2014,Wigan Athletic FC,1-2,Ipswich Town FC
+9,Sat Sep 27 2014,Nottingham Forest FC,0-0,Brighton & Hove Albion FC
+9,Sat Sep 27 2014,Ipswich Town FC,2-0,Rotherham United FC
+9,Sat Sep 27 2014,Huddersfield Town AFC,2-1,Millwall FC
+9,Sat Sep 27 2014,Charlton Athletic FC,0-0,Middlesbrough FC
+9,Sat Sep 27 2014,Cardiff City FC,2-1,Sheffield Wednesday FC
+9,Sat Sep 27 2014,Brentford FC,2-0,Leeds United FC
+9,Sat Sep 27 2014,AFC Bournemouth,2-0,Wigan Athletic FC
+9,Sat Sep 27 2014,Bolton Wanderers FC,0-2,Derby County FC
+9,Sat Sep 27 2014,Blackpool FC,1-3,Norwich City FC
+9,Sat Sep 27 2014,Blackburn Rovers FC,2-2,Watford FC
+9,Sat Sep 27 2014,Birmingham City FC,1-2,Fulham FC
+9,Sun Sep 28 2014,Reading FC,3-3,Wolverhampton Wanderers FC
+10,Tue Sep 30 2014,Wigan Athletic FC,0-0,Nottingham Forest FC
+10,Tue Sep 30 2014,Watford FC,2-1,Brentford FC
+10,Tue Sep 30 2014,Sheffield Wednesday FC,1-1,Ipswich Town FC
+10,Tue Sep 30 2014,Rotherham United FC,2-0,Blackburn Rovers FC
+10,Tue Sep 30 2014,Norwich City FC,0-1,Charlton Athletic FC
+10,Tue Sep 30 2014,Millwall FC,1-3,Birmingham City FC
+10,Tue Sep 30 2014,Middlesbrough FC,1-1,Blackpool FC
+10,Tue Sep 30 2014,Derby County FC,2-0,AFC Bournemouth
+10,Tue Sep 30 2014,Brighton & Hove Albion FC,1-1,Cardiff City FC
+10,Wed Oct 1 2014,Wolverhampton Wanderers FC,1-3,Huddersfield Town AFC
+10,Wed Oct 1 2014,Leeds United FC,0-0,Reading FC
+10,Wed Oct 1 2014,Fulham FC,4-0,Bolton Wanderers FC
+11,Fri Oct 3 2014,Blackpool FC,1-0,Cardiff City FC
+11,Sat Oct 4 2014,Leeds United FC,1-1,Sheffield Wednesday FC
+11,Sat Oct 4 2014,Wolverhampton Wanderers FC,2-2,Wigan Athletic FC
+11,Sat Oct 4 2014,Watford FC,1-1,Brighton & Hove Albion FC
+11,Sat Oct 4 2014,Norwich City FC,1-1,Rotherham United FC
+11,Sat Oct 4 2014,Middlesbrough FC,2-0,Fulham FC
+11,Sat Oct 4 2014,Derby County FC,0-0,Millwall FC
+11,Sat Oct 4 2014,Charlton Athletic FC,1-1,Birmingham City FC
+11,Sat Oct 4 2014,Brentford FC,3-1,Reading FC
+11,Sat Oct 4 2014,Bolton Wanderers FC,1-2,AFC Bournemouth
+11,Sat Oct 4 2014,Blackburn Rovers FC,0-0,Huddersfield Town AFC
+11,Sun Oct 5 2014,Nottingham Forest FC,2-2,Ipswich Town FC
+12,Fri Oct 17 2014,Rotherham United FC,2-1,Leeds United FC
+12,Sat Oct 18 2014,Cardiff City FC,2-1,Nottingham Forest FC
+12,Sat Oct 18 2014,Wigan Athletic FC,0-0,Brentford FC
+12,Sat Oct 18 2014,Sheffield Wednesday FC,0-3,Watford FC
+12,Sat Oct 18 2014,Reading FC,0-3,Derby County FC
+12,Sat Oct 18 2014,Millwall FC,3-3,Wolverhampton Wanderers FC
+12,Sat Oct 18 2014,Ipswich Town FC,1-1,Blackburn Rovers FC
+12,Sat Oct 18 2014,Huddersfield Town AFC,4-2,Blackpool FC
+12,Sat Oct 18 2014,Fulham FC,1-0,Norwich City FC
+12,Sat Oct 18 2014,Brighton & Hove Albion FC,1-2,Middlesbrough FC
+12,Sat Oct 18 2014,AFC Bournemouth,1-0,Charlton Athletic FC
+12,Sat Oct 18 2014,Birmingham City FC,0-1,Bolton Wanderers FC
+13,Tue Oct 21 2014,Wolverhampton Wanderers FC,2-0,Middlesbrough FC
+13,Tue Oct 21 2014,Wigan Athletic FC,0-0,Millwall FC
+13,Tue Oct 21 2014,Watford FC,2-2,Nottingham Forest FC
+13,Tue Oct 21 2014,Rotherham United FC,3-3,Fulham FC
+13,Tue Oct 21 2014,Norwich City FC,1-1,Leeds United FC
+13,Tue Oct 21 2014,Huddersfield Town AFC,1-1,Brighton & Hove Albion FC
+13,Tue Oct 21 2014,Charlton Athletic FC,2-1,Bolton Wanderers FC
+13,Tue Oct 21 2014,Cardiff City FC,3-1,Ipswich Town FC
+13,Tue Oct 21 2014,Brentford FC,0-0,Sheffield Wednesday FC
+13,Tue Oct 21 2014,AFC Bournemouth,3-0,Reading FC
+13,Tue Oct 21 2014,Blackpool FC,0-1,Derby County FC
+13,Tue Oct 21 2014,Blackburn Rovers FC,1-0,Birmingham City FC
+14,Fri Oct 24 2014,Fulham FC,3-0,Charlton Athletic FC
+14,Sat Oct 25 2014,Millwall FC,1-0,Cardiff City FC
+14,Sat Oct 25 2014,Sheffield Wednesday FC,0-0,Norwich City FC
+14,Sat Oct 25 2014,Reading FC,3-0,Blackpool FC
+14,Sat Oct 25 2014,Nottingham Forest FC,1-3,Blackburn Rovers FC
+14,Sat Oct 25 2014,Middlesbrough FC,1-1,Watford FC
+14,Sat Oct 25 2014,Leeds United FC,1-2,Wolverhampton Wanderers FC
+14,Sat Oct 25 2014,Ipswich Town FC,2-2,Huddersfield Town AFC
+14,Sat Oct 25 2014,Derby County FC,1-2,Wigan Athletic FC
+14,Sat Oct 25 2014,Brighton & Hove Albion FC,1-1,Rotherham United FC
+14,Sat Oct 25 2014,Bolton Wanderers FC,3-1,Brentford FC
+14,Sat Oct 25 2014,Birmingham City FC,0-8,AFC Bournemouth
+15,Fri Oct 31 2014,Norwich City FC,2-1,Bolton Wanderers FC
+15,Sat Nov 1 2014,Wolverhampton Wanderers FC,0-0,Birmingham City FC
+15,Sat Nov 1 2014,Wigan Athletic FC,3-3,Fulham FC
+15,Sat Nov 1 2014,Watford FC,3-1,Millwall FC
+15,Sat Nov 1 2014,Rotherham United FC,0-3,Middlesbrough FC
+15,Sat Nov 1 2014,Huddersfield Town AFC,3-0,Nottingham Forest FC
+15,Sat Nov 1 2014,Charlton Athletic FC,1-1,Sheffield Wednesday FC
+15,Sat Nov 1 2014,Cardiff City FC,3-1,Leeds United FC
+15,Sat Nov 1 2014,Brentford FC,2-1,Derby County FC
+15,Sat Nov 1 2014,Blackpool FC,0-2,Ipswich Town FC
+15,Sat Nov 1 2014,Blackburn Rovers FC,3-1,Reading FC
+15,Sat Nov 1 2014,AFC Bournemouth,3-2,Brighton & Hove Albion FC
+16,Tue Nov 4 2014,Sheffield Wednesday FC,0-2,AFC Bournemouth
+16,Tue Nov 4 2014,Millwall FC,2-2,Blackburn Rovers FC
+16,Tue Nov 4 2014,Middlesbrough FC,4-0,Norwich City FC
+16,Tue Nov 4 2014,Leeds United FC,2-2,Charlton Athletic FC
+16,Tue Nov 4 2014,Ipswich Town FC,2-1,Wolverhampton Wanderers FC
+16,Tue Nov 4 2014,Derby County FC,3-2,Huddersfield Town AFC
+16,Tue Nov 4 2014,Brighton & Hove Albion FC,1-0,Wigan Athletic FC
+16,Tue Nov 4 2014,Birmingham City FC,2-1,Watford FC
+16,Tue Nov 4 2014,Reading FC,3-0,Rotherham United FC
+16,Tue Nov 4 2014,Bolton Wanderers FC,3-0,Cardiff City FC
+16,Wed Nov 5 2014,Nottingham Forest FC,1-3,Brentford FC
+16,Wed Nov 5 2014,Fulham FC,2-2,Blackpool FC
+17,Fri Nov 7 2014,Bolton Wanderers FC,3-1,Wigan Athletic FC
+17,Sat Nov 8 2014,Derby County FC,5-0,Wolverhampton Wanderers FC
+17,Sat Nov 8 2014,Sheffield Wednesday FC,0-0,Rotherham United FC
+17,Sat Nov 8 2014,Reading FC,0-1,Charlton Athletic FC
+17,Sat Nov 8 2014,Nottingham Forest FC,2-1,Norwich City FC
+17,Sat Nov 8 2014,Millwall FC,2-3,Brentford FC
+17,Sat Nov 8 2014,Middlesbrough FC,0-0,AFC Bournemouth
+17,Sat Nov 8 2014,Leeds United FC,3-1,Blackpool FC
+17,Sat Nov 8 2014,Ipswich Town FC,1-0,Watford FC
+17,Sat Nov 8 2014,Fulham FC,3-1,Huddersfield Town AFC
+17,Sat Nov 8 2014,Brighton & Hove Albion FC,1-1,Blackburn Rovers FC
+17,Sat Nov 8 2014,Birmingham City FC,0-0,Cardiff City FC
+18,Fri Nov 21 2014,Cardiff City FC,2-1,Reading FC
+18,Fri Nov 21 2014,Brentford FC,2-1,Fulham FC
+18,Sat Nov 22 2014,Huddersfield Town AFC,0-0,Sheffield Wednesday FC
+18,Sat Nov 22 2014,Wolverhampton Wanderers FC,0-3,Nottingham Forest FC
+18,Sat Nov 22 2014,Wigan Athletic FC,1-1,Middlesbrough FC
+18,Sat Nov 22 2014,Watford FC,1-2,Derby County FC
+18,Sat Nov 22 2014,Rotherham United FC,0-1,Birmingham City FC
+18,Sat Nov 22 2014,Norwich City FC,3-3,Brighton & Hove Albion FC
+18,Sat Nov 22 2014,Charlton Athletic FC,0-0,Millwall FC
+18,Sat Nov 22 2014,AFC Bournemouth,2-2,Ipswich Town FC
+18,Sat Nov 22 2014,Blackpool FC,1-1,Bolton Wanderers FC
+18,Sat Nov 22 2014,Blackburn Rovers FC,2-1,Leeds United FC
+19,Sat Nov 29 2014,Charlton Athletic FC,0-1,Ipswich Town FC
+19,Sat Nov 29 2014,Watford FC,0-1,Cardiff City FC
+19,Sat Nov 29 2014,Sheffield Wednesday FC,2-1,Wigan Athletic FC
+19,Sat Nov 29 2014,Rotherham United FC,1-1,Blackpool FC
+19,Sat Nov 29 2014,Norwich City FC,1-2,Reading FC
+19,Sat Nov 29 2014,Middlesbrough FC,1-1,Blackburn Rovers FC
+19,Sat Nov 29 2014,Leeds United FC,2-0,Derby County FC
+19,Sat Nov 29 2014,Brighton & Hove Albion FC,1-2,Fulham FC
+19,Sat Nov 29 2014,Brentford FC,4-0,Wolverhampton Wanderers FC
+19,Sat Nov 29 2014,AFC Bournemouth,2-2,Millwall FC
+19,Sat Nov 29 2014,Bolton Wanderers FC,1-0,Huddersfield Town AFC
+19,Sat Nov 29 2014,Birmingham City FC,2-1,Nottingham Forest FC
+20,Fri Dec 5 2014,Fulham FC,0-5,Watford FC
+20,Sat Dec 6 2014,Wolverhampton Wanderers FC,1-2,AFC Bournemouth
+20,Sat Dec 6 2014,Wigan Athletic FC,0-1,Norwich City FC
+20,Sat Dec 6 2014,Reading FC,0-0,Bolton Wanderers FC
+20,Sat Dec 6 2014,Nottingham Forest FC,1-1,Charlton Athletic FC
+20,Sat Dec 6 2014,Millwall FC,1-5,Middlesbrough FC
+20,Sat Dec 6 2014,Ipswich Town FC,4-1,Leeds United FC
+20,Sat Dec 6 2014,Huddersfield Town AFC,2-1,Brentford FC
+20,Sat Dec 6 2014,Derby County FC,3-0,Brighton & Hove Albion FC
+20,Sat Dec 6 2014,Cardiff City FC,0-0,Rotherham United FC
+20,Sat Dec 6 2014,Blackpool FC,1-0,Birmingham City FC
+20,Sat Dec 6 2014,Blackburn Rovers FC,1-2,Sheffield Wednesday FC
+21,Fri Dec 12 2014,Brighton & Hove Albion FC,0-1,Millwall FC
+21,Sat Dec 13 2014,Middlesbrough FC,2-0,Derby County FC
+21,Sat Dec 13 2014,Watford FC,2-1,Wigan Athletic FC
+21,Sat Dec 13 2014,Sheffield Wednesday FC,0-1,Wolverhampton Wanderers FC
+21,Sat Dec 13 2014,Rotherham United FC,0-0,Nottingham Forest FC
+21,Sat Dec 13 2014,Norwich City FC,5-0,Huddersfield Town AFC
+21,Sat Dec 13 2014,Leeds United FC,0-1,Fulham FC
+21,Sat Dec 13 2014,Charlton Athletic FC,2-2,Blackpool FC
+21,Sat Dec 13 2014,Brentford FC,3-1,Blackburn Rovers FC
+21,Sat Dec 13 2014,AFC Bournemouth,5-3,Cardiff City FC
+21,Sat Dec 13 2014,Bolton Wanderers FC,0-0,Ipswich Town FC
+21,Sat Dec 13 2014,Birmingham City FC,6-1,Reading FC
+22,Fri Dec 19 2014,Millwall FC,0-1,Bolton Wanderers FC
+22,Sat Dec 20 2014,Derby County FC,2-2,Norwich City FC
+22,Sat Dec 20 2014,Wolverhampton Wanderers FC,1-1,Brighton & Hove Albion FC
+22,Sat Dec 20 2014,Wigan Athletic FC,1-2,Rotherham United FC
+22,Sat Dec 20 2014,Reading FC,0-1,Watford FC
+22,Sat Dec 20 2014,Ipswich Town FC,2-0,Middlesbrough FC
+22,Sat Dec 20 2014,Huddersfield Town AFC,0-1,Birmingham City FC
+22,Sat Dec 20 2014,Fulham FC,4-0,Sheffield Wednesday FC
+22,Sat Dec 20 2014,Cardiff City FC,2-3,Brentford FC
+22,Sat Dec 20 2014,Blackpool FC,1-6,AFC Bournemouth
+22,Sat Dec 20 2014,Blackburn Rovers FC,2-0,Charlton Athletic FC
+22,Sat Dec 20 2014,Nottingham Forest FC,1-1,Leeds United FC
+23,Fri Dec 26 2014,Charlton Athletic FC,1-1,Cardiff City FC
+23,Fri Dec 26 2014,Brentford FC,2-4,Ipswich Town FC
+23,Fri Dec 26 2014,Sheffield Wednesday FC,1-0,Blackpool FC
+23,Fri Dec 26 2014,Rotherham United FC,2-2,Huddersfield Town AFC
+23,Fri Dec 26 2014,Norwich City FC,6-1,Millwall FC
+23,Fri Dec 26 2014,Middlesbrough FC,3-0,Nottingham Forest FC
+23,Fri Dec 26 2014,Leeds United FC,0-2,Wigan Athletic FC
+23,Fri Dec 26 2014,Brighton & Hove Albion FC,2-2,Reading FC
+23,Fri Dec 26 2014,AFC Bournemouth,2-0,Fulham FC
+23,Fri Dec 26 2014,Bolton Wanderers FC,2-1,Blackburn Rovers FC
+23,Fri Dec 26 2014,Birmingham City FC,0-4,Derby County FC
+23,Fri Dec 26 2014,Watford FC,0-1,Wolverhampton Wanderers FC
+24,Sun Dec 28 2014,Nottingham Forest FC,1-3,Birmingham City FC
+24,Sun Dec 28 2014,Wolverhampton Wanderers FC,2-1,Brentford FC
+24,Sun Dec 28 2014,Reading FC,2-1,Norwich City FC
+24,Sun Dec 28 2014,Millwall FC,0-2,AFC Bournemouth
+24,Sun Dec 28 2014,Huddersfield Town AFC,2-1,Bolton Wanderers FC
+24,Sun Dec 28 2014,Cardiff City FC,2-4,Watford FC
+24,Sun Dec 28 2014,Blackpool FC,1-1,Rotherham United FC
+24,Sun Dec 28 2014,Blackburn Rovers FC,0-0,Middlesbrough FC
+24,Mon Dec 29 2014,Fulham FC,0-2,Brighton & Hove Albion FC
+24,Tue Dec 30 2014,Wigan Athletic FC,0-1,Sheffield Wednesday FC
+24,Tue Dec 30 2014,Ipswich Town FC,3-0,Charlton Athletic FC
+24,Tue Dec 30 2014,Derby County FC,2-0,Leeds United FC
+25,Sat Jan 10 2015,Ipswich Town FC,0-1,Derby County FC
+25,Sat Jan 10 2015,Reading FC,0-0,Middlesbrough FC
+25,Sat Jan 10 2015,Nottingham Forest FC,0-2,Sheffield Wednesday FC
+25,Sat Jan 10 2015,Huddersfield Town AFC,3-1,Watford FC
+25,Sat Jan 10 2015,Charlton Athletic FC,0-1,Brighton & Hove Albion FC
+25,Sat Jan 10 2015,Cardiff City FC,1-0,Fulham FC
+25,Sat Jan 10 2015,Brentford FC,1-0,Rotherham United FC
+25,Sat Jan 10 2015,AFC Bournemouth,1-2,Norwich City FC
+25,Sat Jan 10 2015,Bolton Wanderers FC,1-1,Leeds United FC
+25,Sat Jan 10 2015,Blackpool FC,1-0,Millwall FC
+25,Sat Jan 10 2015,Birmingham City FC,3-1,Wigan Athletic FC
+25,Sun Jan 11 2015,Blackburn Rovers FC,0-1,Wolverhampton Wanderers FC
+26,Sat Jan 17 2015,Derby County FC,1-2,Nottingham Forest FC
+26,Sat Jan 17 2015,Wolverhampton Wanderers FC,2-0,Blackpool FC
+26,Sat Jan 17 2015,Wigan Athletic FC,1-1,Blackburn Rovers FC
+26,Sat Jan 17 2015,Watford FC,5-0,Charlton Athletic FC
+26,Sat Jan 17 2015,Sheffield Wednesday FC,1-2,Bolton Wanderers FC
+26,Sat Jan 17 2015,Rotherham United FC,0-2,AFC Bournemouth
+26,Sat Jan 17 2015,Norwich City FC,3-2,Cardiff City FC
+26,Sat Jan 17 2015,Millwall FC,1-3,Ipswich Town FC
+26,Sat Jan 17 2015,Middlesbrough FC,2-0,Huddersfield Town AFC
+26,Sat Jan 17 2015,Leeds United FC,1-1,Birmingham City FC
+26,Sat Jan 17 2015,Fulham FC,2-1,Reading FC
+26,Sat Jan 17 2015,Brighton & Hove Albion FC,0-1,Brentford FC
+27,Tue Jan 20 2015,Middlesbrough FC,2-1,Cardiff City FC
+27,Tue Jan 20 2015,Leeds United FC,1-0,AFC Bournemouth
+27,Wed Jan 21 2015,Fulham FC,3-2,Nottingham Forest FC
+27,Wed Jan 21 2015,Brighton & Hove Albion FC,3-2,Ipswich Town FC
+27,Sat Jan 24 2015,Wolverhampton Wanderers FC,0-0,Charlton Athletic FC
+27,Sat Jan 24 2015,Wigan Athletic FC,0-1,Huddersfield Town AFC
+27,Sat Jan 24 2015,Watford FC,7-2,Blackpool FC
+27,Sat Jan 24 2015,Norwich City FC,1-2,Brentford FC
+27,Tue Jan 27 2015,Sheffield Wednesday FC,0-0,Birmingham City FC
+27,Tue Jan 27 2015,Rotherham United FC,4-2,Bolton Wanderers FC
+27,Tue Jan 27 2015,Millwall FC,0-0,Reading FC
+27,Tue Jan 27 2015,Derby County FC,2-0,Blackburn Rovers FC
+28,Fri Jan 30 2015,AFC Bournemouth,2-0,Watford FC
+28,Sat Jan 31 2015,Brentford FC,0-1,Middlesbrough FC
+28,Sat Jan 31 2015,Huddersfield Town AFC,1-2,Leeds United FC
+28,Sat Jan 31 2015,Reading FC,2-0,Sheffield Wednesday FC
+28,Sat Jan 31 2015,Nottingham Forest FC,0-1,Millwall FC
+28,Sat Jan 31 2015,Ipswich Town FC,0-0,Wigan Athletic FC
+28,Sat Jan 31 2015,Charlton Athletic FC,1-1,Rotherham United FC
+28,Sat Jan 31 2015,Cardiff City FC,0-2,Derby County FC
+28,Sat Jan 31 2015,Bolton Wanderers FC,2-2,Wolverhampton Wanderers FC
+28,Sat Jan 31 2015,Blackpool FC,1-0,Brighton & Hove Albion FC
+28,Sat Jan 31 2015,Blackburn Rovers FC,2-1,Fulham FC
+28,Sat Jan 31 2015,Birmingham City FC,0-0,Norwich City FC
+29,Sat Feb 7 2015,Wolverhampton Wanderers FC,1-2,Reading FC
+29,Sat Feb 7 2015,Wigan Athletic FC,1-3,AFC Bournemouth
+29,Sat Feb 7 2015,Watford FC,1-0,Blackburn Rovers FC
+29,Sat Feb 7 2015,Sheffield Wednesday FC,1-1,Cardiff City FC
+29,Sat Feb 7 2015,Rotherham United FC,2-0,Ipswich Town FC
+29,Sat Feb 7 2015,Norwich City FC,4-0,Blackpool FC
+29,Sat Feb 7 2015,Millwall FC,1-3,Huddersfield Town AFC
+29,Sat Feb 7 2015,Middlesbrough FC,3-1,Charlton Athletic FC
+29,Sat Feb 7 2015,Leeds United FC,0-1,Brentford FC
+29,Sat Feb 7 2015,Fulham FC,1-1,Birmingham City FC
+29,Sat Feb 7 2015,Derby County FC,4-1,Bolton Wanderers FC
+29,Sat Feb 7 2015,Brighton & Hove Albion FC,2-3,Nottingham Forest FC
+30,Tue Feb 10 2015,Ipswich Town FC,2-1,Sheffield Wednesday FC
+30,Tue Feb 10 2015,Huddersfield Town AFC,1-4,Wolverhampton Wanderers FC
+30,Tue Feb 10 2015,Charlton Athletic FC,2-3,Norwich City FC
+30,Tue Feb 10 2015,Cardiff City FC,0-0,Brighton & Hove Albion FC
+30,Tue Feb 10 2015,Brentford FC,1-2,Watford FC
+30,Tue Feb 10 2015,AFC Bournemouth,2-2,Derby County FC
+30,Tue Feb 10 2015,Blackpool FC,1-2,Middlesbrough FC
+30,Tue Feb 10 2015,Blackburn Rovers FC,2-1,Rotherham United FC
+30,Tue Feb 10 2015,Birmingham City FC,0-1,Millwall FC
+30,Tue Feb 10 2015,Reading FC,0-2,Leeds United FC
+30,Tue Feb 10 2015,Bolton Wanderers FC,3-1,Fulham FC
+30,Wed Feb 11 2015,Nottingham Forest FC,3-0,Wigan Athletic FC
+31,Sat Feb 14 2015,Sheffield Wednesday FC,0-0,Brighton & Hove Albion FC
+31,Sat Feb 14 2015,Norwich City FC,2-0,Wolverhampton Wanderers FC
+31,Sat Feb 14 2015,Leeds United FC,1-0,Millwall FC
+31,Sat Feb 14 2015,Fulham FC,1-2,Ipswich Town FC
+31,Sat Feb 14 2015,Charlton Athletic FC,3-0,Brentford FC
+31,Sat Feb 14 2015,AFC Bournemouth,1-1,Huddersfield Town AFC
+31,Sat Feb 14 2015,Bolton Wanderers FC,3-4,Watford FC
+31,Sat Feb 14 2015,Blackpool FC,4-4,Nottingham Forest FC
+31,Tue Feb 17 2015,Rotherham United FC,3-3,Derby County FC
+31,Tue Feb 17 2015,Cardiff City FC,1-1,Blackburn Rovers FC
+31,Tue Feb 17 2015,Reading FC,0-1,Wigan Athletic FC
+31,Wed Feb 18 2015,Birmingham City FC,1-1,Middlesbrough FC
+32,Fri Feb 20 2015,Wigan Athletic FC,0-3,Charlton Athletic FC
+32,Sat Feb 21 2015,Middlesbrough FC,0-1,Leeds United FC
+32,Sat Feb 21 2015,Wolverhampton Wanderers FC,5-0,Rotherham United FC
+32,Sat Feb 21 2015,Watford FC,0-3,Norwich City FC
+32,Sat Feb 21 2015,Nottingham Forest FC,4-1,Bolton Wanderers FC
+32,Sat Feb 21 2015,Millwall FC,0-0,Fulham FC
+32,Sat Feb 21 2015,Ipswich Town FC,0-1,Reading FC
+32,Sat Feb 21 2015,Huddersfield Town AFC,0-0,Cardiff City FC
+32,Sat Feb 21 2015,Derby County FC,3-2,Sheffield Wednesday FC
+32,Sat Feb 21 2015,Brighton & Hove Albion FC,4-3,Birmingham City FC
+32,Sat Feb 21 2015,Brentford FC,3-1,AFC Bournemouth
+32,Sat Feb 21 2015,Blackburn Rovers FC,1-1,Blackpool FC
+33,Tue Feb 24 2015,Wolverhampton Wanderers FC,3-0,Fulham FC
+33,Tue Feb 24 2015,Wigan Athletic FC,0-1,Cardiff City FC
+33,Tue Feb 24 2015,Watford FC,3-0,Rotherham United FC
+33,Tue Feb 24 2015,Millwall FC,1-3,Sheffield Wednesday FC
+33,Tue Feb 24 2015,Middlesbrough FC,1-0,Bolton Wanderers FC
+33,Tue Feb 24 2015,Ipswich Town FC,4-2,Birmingham City FC
+33,Tue Feb 24 2015,Huddersfield Town AFC,3-0,Reading FC
+33,Tue Feb 24 2015,Derby County FC,2-0,Charlton Athletic FC
+33,Tue Feb 24 2015,Brighton & Hove Albion FC,2-0,Leeds United FC
+33,Tue Feb 24 2015,Brentford FC,4-0,Blackpool FC
+33,Tue Feb 24 2015,Blackburn Rovers FC,1-2,Norwich City FC
+33,Wed Feb 25 2015,Nottingham Forest FC,2-1,AFC Bournemouth
+34,Sat Feb 28 2015,Sheffield Wednesday FC,2-0,Middlesbrough FC
+34,Sat Feb 28 2015,Rotherham United FC,2-1,Millwall FC
+34,Sat Feb 28 2015,Reading FC,0-3,Nottingham Forest FC
+34,Sat Feb 28 2015,Leeds United FC,2-3,Watford FC
+34,Sat Feb 28 2015,Fulham FC,2-0,Derby County FC
+34,Sat Feb 28 2015,Charlton Athletic FC,3-0,Huddersfield Town AFC
+34,Sat Feb 28 2015,Cardiff City FC,0-1,Wolverhampton Wanderers FC
+34,Sat Feb 28 2015,Bolton Wanderers FC,1-0,Brighton & Hove Albion FC
+34,Sat Feb 28 2015,Blackpool FC,1-3,Wigan Athletic FC
+34,Sat Feb 28 2015,Birmingham City FC,1-0,Brentford FC
+34,Sat Feb 28 2015,AFC Bournemouth,0-0,Blackburn Rovers FC
+34,Sun Mar 1 2015,Norwich City FC,2-0,Ipswich Town FC
+35,Tue Mar 3 2015,Watford FC,1-0,Fulham FC
+35,Tue Mar 3 2015,Rotherham United FC,1-3,Cardiff City FC
+35,Tue Mar 3 2015,Middlesbrough FC,3-0,Millwall FC
+35,Tue Mar 3 2015,Charlton Athletic FC,2-1,Nottingham Forest FC
+35,Tue Mar 3 2015,Brighton & Hove Albion FC,2-0,Derby County FC
+35,Tue Mar 3 2015,Brentford FC,4-1,Huddersfield Town AFC
+35,Tue Mar 3 2015,AFC Bournemouth,2-1,Wolverhampton Wanderers FC
+35,Tue Mar 3 2015,Bolton Wanderers FC,1-1,Reading FC
+35,Wed Mar 4 2015,Sheffield Wednesday FC,1-2,Blackburn Rovers FC
+35,Wed Mar 4 2015,Norwich City FC,0-1,Wigan Athletic FC
+35,Wed Mar 4 2015,Leeds United FC,2-1,Ipswich Town FC
+35,Wed Mar 4 2015,Birmingham City FC,1-0,Blackpool FC
+36,Fri Mar 6 2015,Fulham FC,1-5,AFC Bournemouth
+36,Sat Mar 7 2015,Wolverhampton Wanderers FC,2-2,Watford FC
+36,Sat Mar 7 2015,Wigan Athletic FC,0-1,Leeds United FC
+36,Sat Mar 7 2015,Nottingham Forest FC,2-1,Middlesbrough FC
+36,Sat Mar 7 2015,Millwall FC,1-4,Norwich City FC
+36,Sat Mar 7 2015,Ipswich Town FC,1-1,Brentford FC
+36,Sat Mar 7 2015,Huddersfield Town AFC,0-2,Rotherham United FC
+36,Sat Mar 7 2015,Derby County FC,2-2,Birmingham City FC
+36,Sat Mar 7 2015,Cardiff City FC,1-2,Charlton Athletic FC
+36,Sat Mar 7 2015,Blackpool FC,0-1,Sheffield Wednesday FC
+36,Tue Mar 10 2015,Reading FC,2-1,Brighton & Hove Albion FC
+36,Wed Mar 11 2015,Blackburn Rovers FC,1-0,Bolton Wanderers FC
+37,Sat Mar 14 2015,Middlesbrough FC,4-1,Ipswich Town FC
+37,Sat Mar 14 2015,Watford FC,4-1,Reading FC
+37,Sat Mar 14 2015,Sheffield Wednesday FC,1-1,Fulham FC
+37,Sat Mar 14 2015,Rotherham United FC,1-2,Wigan Athletic FC
+37,Sat Mar 14 2015,Norwich City FC,1-1,Derby County FC
+37,Sat Mar 14 2015,Leeds United FC,0-0,Nottingham Forest FC
+37,Sat Mar 14 2015,Charlton Athletic FC,1-3,Blackburn Rovers FC
+37,Sat Mar 14 2015,Brighton & Hove Albion FC,1-1,Wolverhampton Wanderers FC
+37,Sat Mar 14 2015,Brentford FC,1-2,Cardiff City FC
+37,Sat Mar 14 2015,AFC Bournemouth,4-0,Blackpool FC
+37,Sat Mar 14 2015,Bolton Wanderers FC,2-0,Millwall FC
+37,Sat Mar 14 2015,Birmingham City FC,1-1,Huddersfield Town AFC
+38,Tue Mar 17 2015,Wolverhampton Wanderers FC,3-0,Sheffield Wednesday FC
+38,Tue Mar 17 2015,Wigan Athletic FC,0-2,Watford FC
+38,Tue Mar 17 2015,Millwall FC,0-0,Brighton & Hove Albion FC
+38,Tue Mar 17 2015,Ipswich Town FC,1-0,Bolton Wanderers FC
+38,Tue Mar 17 2015,Huddersfield Town AFC,2-2,Norwich City FC
+38,Tue Mar 17 2015,Derby County FC,0-1,Middlesbrough FC
+38,Tue Mar 17 2015,Cardiff City FC,1-1,AFC Bournemouth
+38,Tue Mar 17 2015,Blackpool FC,0-3,Charlton Athletic FC
+38,Tue Mar 17 2015,Blackburn Rovers FC,2-3,Brentford FC
+38,Wed Mar 18 2015,Nottingham Forest FC,2-0,Rotherham United FC
+38,Wed Mar 18 2015,Fulham FC,0-3,Leeds United FC
+39,Fri Mar 20 2015,Wolverhampton Wanderers FC,2-0,Derby County FC
+39,Sat Mar 21 2015,AFC Bournemouth,3-0,Middlesbrough FC
+39,Sat Mar 21 2015,Brentford FC,2-2,Millwall FC
+39,Sat Mar 21 2015,Wigan Athletic FC,1-1,Bolton Wanderers FC
+39,Sat Mar 21 2015,Watford FC,0-1,Ipswich Town FC
+39,Sat Mar 21 2015,Rotherham United FC,2-3,Sheffield Wednesday FC
+39,Sat Mar 21 2015,Norwich City FC,3-1,Nottingham Forest FC
+39,Sat Mar 21 2015,Huddersfield Town AFC,0-2,Fulham FC
+39,Sat Mar 21 2015,Charlton Athletic FC,3-2,Reading FC
+39,Sat Mar 21 2015,Cardiff City FC,2-0,Birmingham City FC
+39,Sat Mar 21 2015,Blackpool FC,1-1,Leeds United FC
+39,Sat Mar 21 2015,Blackburn Rovers FC,0-1,Brighton & Hove Albion FC
+40,Fri Apr 3 2015,Nottingham Forest FC,1-2,Wolverhampton Wanderers FC
+40,Fri Apr 3 2015,Millwall FC,2-1,Charlton Athletic FC
+40,Fri Apr 3 2015,Middlesbrough FC,1-0,Wigan Athletic FC
+40,Fri Apr 3 2015,Fulham FC,1-4,Brentford FC
+40,Fri Apr 3 2015,Brighton & Hove Albion FC,0-1,Norwich City FC
+40,Fri Apr 3 2015,Birmingham City FC,2-1,Rotherham United FC
+40,Fri Apr 3 2015,Ipswich Town FC,1-1,AFC Bournemouth
+40,Fri Apr 3 2015,Derby County FC,2-2,Watford FC
+40,Sat Apr 4 2015,Sheffield Wednesday FC,1-1,Huddersfield Town AFC
+40,Sat Apr 4 2015,Reading FC,1-1,Cardiff City FC
+40,Sat Apr 4 2015,Leeds United FC,0-3,Blackburn Rovers FC
+40,Sat Apr 4 2015,Bolton Wanderers FC,1-1,Blackpool FC
+41,Mon Apr 6 2015,Watford FC,2-0,Middlesbrough FC
+41,Mon Apr 6 2015,Wigan Athletic FC,0-2,Derby County FC
+41,Mon Apr 6 2015,Rotherham United FC,1-0,Brighton & Hove Albion FC
+41,Mon Apr 6 2015,Norwich City FC,2-0,Sheffield Wednesday FC
+41,Mon Apr 6 2015,Huddersfield Town AFC,2-1,Ipswich Town FC
+41,Mon Apr 6 2015,Cardiff City FC,0-3,Bolton Wanderers FC
+41,Mon Apr 6 2015,Brentford FC,2-2,Nottingham Forest FC
+41,Mon Apr 6 2015,AFC Bournemouth,4-2,Birmingham City FC
+41,Mon Apr 6 2015,Wolverhampton Wanderers FC,4-3,Leeds United FC
+41,Tue Apr 7 2015,Charlton Athletic FC,1-1,Fulham FC
+41,Tue Apr 7 2015,Blackpool FC,1-1,Reading FC
+42,Fri Apr 10 2015,Brighton & Hove Albion FC,0-2,AFC Bournemouth
+42,Fri Apr 10 2015,Fulham FC,2-2,Wigan Athletic FC
+42,Sat Apr 11 2015,Derby County FC,1-1,Brentford FC
+42,Sat Apr 11 2015,Sheffield Wednesday FC,1-1,Charlton Athletic FC
+42,Sat Apr 11 2015,Reading FC,0-0,Blackburn Rovers FC
+42,Sat Apr 11 2015,Nottingham Forest FC,0-1,Huddersfield Town AFC
+42,Sat Apr 11 2015,Millwall FC,0-2,Watford FC
+42,Sat Apr 11 2015,Middlesbrough FC,2-0,Rotherham United FC
+42,Sat Apr 11 2015,Leeds United FC,1-2,Cardiff City FC
+42,Sat Apr 11 2015,Ipswich Town FC,3-2,Blackpool FC
+42,Sat Apr 11 2015,Bolton Wanderers FC,1-2,Norwich City FC
+42,Sat Apr 11 2015,Birmingham City FC,2-1,Wolverhampton Wanderers FC
+43,Tue Apr 14 2015,Sheffield Wednesday FC,1-0,Brentford FC
+43,Tue Apr 14 2015,Millwall FC,2-0,Wigan Athletic FC
+43,Tue Apr 14 2015,Middlesbrough FC,2-1,Wolverhampton Wanderers FC
+43,Tue Apr 14 2015,Leeds United FC,0-2,Norwich City FC
+43,Tue Apr 14 2015,Ipswich Town FC,3-1,Cardiff City FC
+43,Tue Apr 14 2015,Derby County FC,4-0,Blackpool FC
+43,Tue Apr 14 2015,Brighton & Hove Albion FC,0-0,Huddersfield Town AFC
+43,Tue Apr 14 2015,Birmingham City FC,2-2,Blackburn Rovers FC
+43,Tue Apr 14 2015,Reading FC,0-1,AFC Bournemouth
+43,Tue Apr 14 2015,Bolton Wanderers FC,1-1,Charlton Athletic FC
+43,Wed Apr 15 2015,Nottingham Forest FC,1-3,Watford FC
+43,Wed Apr 15 2015,Fulham FC,1-1,Rotherham United FC
+44,Fri Apr 17 2015,Norwich City FC,0-1,Middlesbrough FC
+44,Sat Apr 18 2015,Wolverhampton Wanderers FC,1-1,Ipswich Town FC
+44,Sat Apr 18 2015,Wigan Athletic FC,2-1,Brighton & Hove Albion FC
+44,Sat Apr 18 2015,Watford FC,1-0,Birmingham City FC
+44,Sat Apr 18 2015,Huddersfield Town AFC,4-4,Derby County FC
+44,Sat Apr 18 2015,Charlton Athletic FC,2-1,Leeds United FC
+44,Sat Apr 18 2015,Cardiff City FC,0-0,Millwall FC
+44,Sat Apr 18 2015,Brentford FC,2-2,Bolton Wanderers FC
+44,Sat Apr 18 2015,AFC Bournemouth,2-2,Sheffield Wednesday FC
+44,Sat Apr 18 2015,Blackpool FC,0-1,Fulham FC
+44,Sat Apr 18 2015,Blackburn Rovers FC,3-3,Nottingham Forest FC
+45,Tue Apr 21 2015,Blackburn Rovers FC,2-0,Millwall FC
+45,Wed Apr 22 2015,Reading FC,0-1,Birmingham City FC
+45,Sat Apr 25 2015,Brighton & Hove Albion FC,0-2,Watford FC
+45,Sat Apr 25 2015,Sheffield Wednesday FC,1-2,Leeds United FC
+45,Sat Apr 25 2015,Wigan Athletic FC,0-1,Wolverhampton Wanderers FC
+45,Sat Apr 25 2015,Rotherham United FC,1-1,Norwich City FC
+45,Sat Apr 25 2015,Reading FC,0-2,Brentford FC
+45,Sat Apr 25 2015,Millwall FC,3-3,Derby County FC
+45,Sat Apr 25 2015,Ipswich Town FC,2-1,Nottingham Forest FC
+45,Sat Apr 25 2015,Huddersfield Town AFC,2-2,Blackburn Rovers FC
+45,Sat Apr 25 2015,Fulham FC,4-3,Middlesbrough FC
+45,Sat Apr 25 2015,Cardiff City FC,3-2,Blackpool FC
+45,Sat Apr 25 2015,Birmingham City FC,1-0,Charlton Athletic FC
+45,Mon Apr 27 2015,AFC Bournemouth,3-0,Bolton Wanderers FC
+46,Tue Apr 28 2015,Rotherham United FC,2-1,Reading FC
+46,Sat May 2 2015,Wolverhampton Wanderers FC,4-2,Millwall FC
+46,Sat May 2 2015,Watford FC,1-1,Sheffield Wednesday FC
+46,Sat May 2 2015,Nottingham Forest FC,1-2,Cardiff City FC
+46,Sat May 2 2015,Norwich City FC,4-2,Fulham FC
+46,Sat May 2 2015,Middlesbrough FC,0-0,Brighton & Hove Albion FC
+46,Sat May 2 2015,Leeds United FC,0-0,Rotherham United FC
+46,Sat May 2 2015,Derby County FC,0-3,Reading FC
+46,Sat May 2 2015,Charlton Athletic FC,0-3,AFC Bournemouth
+46,Sat May 2 2015,Brentford FC,3-0,Wigan Athletic FC
+46,Sat May 2 2015,Bolton Wanderers FC,0-1,Birmingham City FC
+46,Sat May 2 2015,Blackpool FC,0-0,Huddersfield Town AFC
+46,Sat May 2 2015,Blackburn Rovers FC,3-2,Ipswich Town FC
