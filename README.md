@@ -77,13 +77,6 @@ data
 <div>
 
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
     
 <table border="1" class="dataframe">
   <thead>
@@ -231,13 +224,6 @@ data
 <div>
 
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
     
 <table border="1" class="dataframe">
   <thead>
@@ -390,13 +376,6 @@ teams_db
 <div>
 
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 
 <table border="1" class="dataframe">
   <thead>
@@ -636,13 +615,6 @@ teams_db
 <div>
 
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 
 <table border="1" class="dataframe">
   <thead>
@@ -813,13 +785,6 @@ team_filtered
 <div>
 
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 
 <table border="1" class="dataframe">
   <thead>
@@ -989,13 +954,6 @@ team_filtered.sort_values('winrate', ascending=False)
 <div>
 
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 
 <table border="1" class="dataframe">
   <thead>
@@ -1163,14 +1121,6 @@ team_filtered.sort_values('goal_ratio', ascending=False)
 
 <div>
 
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 
 <table border="1" class="dataframe">
   <thead>
@@ -1471,13 +1421,6 @@ slice
 <div>
 
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 
 <table border="1" class="dataframe">
   <thead>
