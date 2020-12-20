@@ -2,7 +2,7 @@
 ## by Feng Gu
 
 ## Introduction
-### The objective of this data science project is evaluating the performance of football clubs in the U.K. from $2010$ to $2019$ and hopefully getting insights on the general trends of British and Wales football. This tutorial will try to discover patterns hiding in plain sight. The football clubs are selected from the Premier League, the EFL League One, etc. The football data used in this tutorial can be found [here](https://github.com/footballcsv/england), under the 2010s folder.
+### The objective of this data science project is evaluating the performance of football clubs in the U.K. from 2010 to 2019 and hopefully getting insights on the general trends of British and Wales football. This tutorial will try to discover patterns hiding in plain sight. The football clubs are selected from the Premier League, the EFL League One, etc. The football data used in this tutorial can be found [here](https://github.com/footballcsv/england), under the 2010s folder.
 ## Required Libraries
 ### pandas (data manipulation) <br /> Regular Expression (processing data) <br /> matplotlib (plotting graphs) <br /> scikit-learn (machine learning) <br /> numpy (calculation)
 
@@ -20,8 +20,8 @@ warnings.simplefilter(action="ignore", category=SettingWithCopyWarning)
 ```
 
 ## Data collection
-### This is the process where we gather the information from GitHub and put it in a pandas [DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html). A DataFrame is a $2$-dimentional table in which we store our data. The DataFrame allows us to extract and filter data whenever we need. The [GitHub repository](https://github.com/footballcsv/england) provides an archive file consisting of csv tables. 
-### For convenience purposes, I renamed the csv tables (to '10.csv', '11.csv', etc.) after unzipping the archived file. We use the $read\_csv()$ function in pandas to read the csv tables and put them in a list sequentially. We print out the content of the first file to give you a general idea. Each line represents a football match, containing the competing teams, score, date, and round, as you can see below.
+### This is the process where we gather the information from GitHub and put it in a pandas [DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html). A DataFrame is a 2-dimentional table in which we store our data. The DataFrame allows us to extract and filter data whenever we need. The [GitHub repository](https://github.com/footballcsv/england) provides an archive file consisting of csv tables. 
+### For convenience purposes, I renamed the csv tables (to '10.csv', '11.csv', etc.) after unzipping the archived file. We use the read\_csv() function in pandas to read the csv tables and put them in a list sequentially. We print out the content of the first file to give you a general idea. Each line represents a football match, containing the competing teams, score, date, and round, as you can see below.
 
 
 ```python
@@ -63,7 +63,7 @@ for file in list:
     [2036 rows x 5 columns]
 
 
-### Next, we need to combine data from each year. We can do so by using the $concat()$ function in pandas. Now, we have a DataFrame containing all the information needed to do an analysis.
+### Next, we need to combine data from each year. We can do so by using the concat() function in pandas. Now, we have a DataFrame containing all the information needed to do an analysis.
 
 
 ```python
@@ -75,10 +75,7 @@ data
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+
 
     .dataframe tbody tr th {
         vertical-align: top;
@@ -87,7 +84,7 @@ data
     .dataframe thead th {
         text-align: right;
     }
-</style>
+    
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -196,7 +193,7 @@ data
 
 
 ## Data Processing
-### There are a few things we need to do to tidy the data. <br /> 1. We notived that there are missing values in some rows. We need to remove them to improve accuracy. <br /> 2. We need to split the score from the $FT$ column and find out the winning team. We can do so using regular expression <br /> 3. We can also ignore the round, month, and day because they are relatively insignificant in our quantitative analysis.
+### There are a few things we need to do to tidy the data. <br /> 1. We notived that there are missing values in some rows. We need to remove them to improve accuracy. <br /> 2. We need to split the score from the FT column and find out the winning team. We can do so using regular expression <br /> 3. We can also ignore the round, month, and day because they are relatively insignificant in our quantitative analysis.
 
 
 ```python
@@ -232,10 +229,7 @@ data
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+
 
     .dataframe tbody tr th {
         vertical-align: top;
@@ -244,7 +238,7 @@ data
     .dataframe thead th {
         text-align: right;
     }
-</style>
+    
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -364,7 +358,7 @@ data
 
 
 
-### Now we have a better DataFrame. The next step is to format the data to gain information about each football club. Thus, we can create a new DataFrame with respect to the clubs instead of the football matches. We want to know how many goals they made, how many games they win, etc. from $2010$ to $2019$. To obtain a list of the clubs, we can just look at the $Team\:1$ and $Team\:2$ columns from our previous DataFrame. Notice that we use the $drop\_duplicates()$ function so that no club is listed multiple times. We have now created a template to record team standing information.
+### Now we have a better DataFrame. The next step is to format the data to gain information about each football club. Thus, we can create a new DataFrame with respect to the clubs instead of the football matches. We want to know how many goals they made, how many games they win, etc. from 2010 to 2019. To obtain a list of the clubs, we can just look at the Team 1 and Team 2 columns from our previous DataFrame. Notice that we use the drop_duplicates() function so that no club is listed multiple times. We have now created a template to record team standing information.
 
 
 ```python
@@ -394,10 +388,7 @@ teams_db
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+
 
     .dataframe tbody tr th {
         vertical-align: top;
@@ -406,7 +397,7 @@ teams_db
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -561,7 +552,7 @@ teams_db
 
 
 
-### For every year between 2010 and 2019 (inclusive), we record the team standing and calculate the $win\:rate$ and $goal\:ratio$. Note that we dropped rows with $games = 0$  or missing values ($NaN$). We also need to calculate the $win\:rate$ and the $goal\_ratio$ for each team as the match data is recorded. We can use the following formula to calculate the $win\:rate$: <br /> $winrate = \frac{wins}{games}$ (the greater the better), and the $goal\_ratio$ using: <br /> $goal\:ratio = \frac{goals}{opponent\:goals}$ (the greater the better) <br /> 
+### For every year between 2010 and 2019 (inclusive), we record the team standing and calculate the win rate and goal ratio. Note that we dropped rows with games = 0  or missing values (NaN). We also need to calculate the win rate and the goal ratio for each team as the match data is recorded. We can use the following formula to calculate the win rate: <br /> winrate = \frac{wins}{games} (the greater the better), and the goal_ratio using: <br /> goal ratio = \frac{goals}{opponent\:goals} (the greater the better) <br /> 
 
 
 ```python
@@ -602,7 +593,7 @@ for standing in team_standing_by_year:
             standing.at[idx, 'goal_ratio'] = gr
 ```
 
-### team_standing_by_year now has the data separated by $year$. We create a new DataFrame containing data from $2010$ to $2019$. That is, adding all the data together.
+### team_standing_by_year now has the data separated by year. We create a new DataFrame containing data from 2010 to 2019. That is, adding all the data together.
 
 
 ```python
@@ -643,10 +634,7 @@ teams_db
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+
 
     .dataframe tbody tr th {
         vertical-align: top;
@@ -655,7 +643,7 @@ teams_db
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -810,7 +798,7 @@ teams_db
 
 
 
-### Now, we noticed that there are teams with inadequate data. Let's filter out teams with $games < 30$ to maintain data integrity. Data processing is now finished.
+### Now, we noticed that there are teams with inadequate data. Let's filter out teams with games < 30 to maintain data integrity. Data processing is now finished.
 
 
 ```python
@@ -823,10 +811,7 @@ team_filtered
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+
 
     .dataframe tbody tr th {
         vertical-align: top;
@@ -835,7 +820,7 @@ team_filtered
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -991,7 +976,7 @@ team_filtered
 
 
 ## Exploratory Analysis and Data Visualization
-### Remeber that our objective includes finding patterns from the data. To begin with, we can try to find the relationship between $win\:rate$ and $goal\:ratio$. We can rearrange the rows by their $win\:rate$ in the descending order using the $sort\_values()$ function:
+### Remeber that our objective includes finding patterns from the data. To begin with, we can try to find the relationship between win rate and goal ratio. We can rearrange the rows by their win rate in the descending order using the sort_values() function:
 
 
 ```python
@@ -1002,10 +987,7 @@ team_filtered.sort_values('winrate', ascending=False)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+
 
     .dataframe tbody tr th {
         vertical-align: top;
@@ -1014,7 +996,7 @@ team_filtered.sort_values('winrate', ascending=False)
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1169,7 +1151,7 @@ team_filtered.sort_values('winrate', ascending=False)
 
 
 
-### And by $goal\:ratio$:
+### And by goal ratio:
 
 
 ```python
@@ -1180,10 +1162,7 @@ team_filtered.sort_values('goal_ratio', ascending=False)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+
 
     .dataframe tbody tr th {
         vertical-align: top;
@@ -1192,7 +1171,7 @@ team_filtered.sort_values('goal_ratio', ascending=False)
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1347,7 +1326,7 @@ team_filtered.sort_values('goal_ratio', ascending=False)
 
 
 
-### It seems that the $goal\:ratio$ is associated with the $win\:rate$: teams that appear in the first few rows in the former DataFrame also appear in the latter DataFrame. We hypothesize that the $goal\:ratio$ is associated with $win\:rate$. In the next step, we want to see the performance of each team in the top $5$ using matplotlib. For each team, we calculate its winrate in each year respectively using the aforementioned formula.
+### It seems that the goal ratio is associated with the win rate: teams that appear in the first few rows in the former DataFrame also appear in the latter DataFrame. We hypothesize that the goal ratio is associated with win rate. In the next step, we want to see the performance of each team in the top 5 using matplotlib. For each team, we calculate its winrate in each year respectively using the aforementioned formula.
 
 
 ```python
@@ -1381,7 +1360,7 @@ plt.show()
 ![png](output_23_0.png)
 
 
-### Obviously, the top teams are performing exceptionally well (given the $50\%$ winrate line). Here, we can also plot the trend of standard deviation for win rate and goal ratio. We have to make sure there are no missing values so that the $std()$ function from numpy would work.
+### Obviously, the top teams are performing exceptionally well (given the 50% winrate line). Here, we can also plot the trend of standard deviation for win rate and goal ratio. We have to make sure there are no missing values so that the std() function from numpy would work.
 
 
 ```python
@@ -1410,9 +1389,9 @@ plt.show()
 ![png](output_25_0.png)
 
 
-### The standard deviation for win rate maintains the same level over the decade. However, the standard deviation for goal ratio increased dramatically over the decade. This may indicate that the gap between top teams and bottom teams is increasing. However, the bottom teams are losing most games and already having a very low winrate, hence the little increase in the win rate standard deviation. [This](https://www.premierleague.com/tables) confirms the hypothesis: as of 12/20/2020, the bottom $5$ teams has $7$ wins in total, whereas the leading team, Liverpool F.C., has $9$.
+### The standard deviation for win rate maintains the same level over the decade. However, the standard deviation for goal ratio increased dramatically over the decade. This may indicate that the gap between top teams and bottom teams is increasing. However, the bottom teams are losing most games and already having a very low winrate, hence the little increase in the win rate standard deviation. [This](https://www.premierleague.com/tables) confirms the hypothesis: as of 12/20/2020, the bottom 5 teams has 7 wins in total, whereas the leading team, Liverpool F.C., has 9.
 
-### We can do a more in-depth evaluation: scatter-plotting $goal\:ratio$ on $x$-axis versus $win\:rate$ on $y$-axis and find a trend using numpy's $polyfit()$ function if we notice any correlation between them.
+### We can do a more in-depth evaluation: scatter-plotting goal ratio on x-axis versus win rate on y-axis and find a trend using numpy's polyfit() function if we notice any correlation between them.
 
 
 ```python
@@ -1460,8 +1439,8 @@ print('The coefficient is ' + str(m))
     The coefficient is 0.2602514809999917
 
 
-### The intercept tells us that when the $goal\:ratio$ for a team is $0$ (i.e., no goal), the $win\:rate$ is less than $10\%$; the coefficient tells us that for a unit increase in the $goal\:ratio$, there is a $0.26$ unit increase in $win\:rate$. 
-### Another way to visualize the data is using a histogram. We can use 50 buckets to see the distribution of the $goal\:ratio$.
+### The intercept tells us that when the goal ratio for a team is 0 (i.e., no goal), the win rate is less than 10%; the coefficient tells us that for a unit increase in the goal ratio, there is a 0.26 unit increase in win rate. 
+### Another way to visualize the data is using a histogram. We can use 50 buckets to see the distribution of the goal ratio.
 
 
 ```python
@@ -1477,7 +1456,7 @@ plt.show()
 ![png](output_32_0.png)
 
 
-### We see that most of the team have a $goal\:ratio \approx 1$. In Premier League where $20$ teams compete, the bottom $3$ teams are relegated. In a hypothetical Premier League with $122$ teams, a teams needs to stay away from the bottom $122 \times \frac{3}{20} \approx 19$ position to avoid being relegated. Let's do some slicing:
+### We see that most of the team have a goal ratio ≈ 1. In Premier League where 20 teams compete, the bottom 3 teams are relegated. In a hypothetical Premier League with 122 teams, a teams needs to stay away from the bottom 122 * 3 / 20 ≈ 19 position to avoid being relegated. Let's do some slicing:
 
 
 ```python
@@ -1490,10 +1469,7 @@ slice
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+
 
     .dataframe tbody tr th {
         vertical-align: top;
@@ -1502,7 +1478,7 @@ slice
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1557,11 +1533,11 @@ slice
 
 
 
-### That is, in order to avoid being relegated, the hypothetical team only needs <br /> $goal\:ratio \approx 0.82$ <br /> and <br /> $win\:rate \approx 30\%$
+### That is, in order to avoid being relegated, the hypothetical team only needs <br /> goal ratio ≈ 0.82 <br /> and <br /> win rate ≈ 30%
 
 ### Next, we will predict the performance of randomly selected teams.
 ## Predict the Performance Using Linear Regression
-### The first step for predicting is split the data intro training and test set. We select the first $99$ rows as our training data so that <br /> $training\:set:test\:set \approx 4:1$
+### The first step for predicting is split the data intro training and test set. We select the first 99 rows as our training data so that <br /> training set:test set ≈ 4:1
 
 
 ```python
@@ -1570,7 +1546,7 @@ train = team_filtered.iloc[:99,:]
 test = team_filtered.iloc[100:,:]
 ```
 
-### We then convert the data into numpy arrays for calculation purposes and use the [linear regression model](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) from scikit-learn. We print out the coefficient and intercept. They are almost identical to the result we got from numpy's $polyfit()$ function.
+### We then convert the data into numpy arrays for calculation purposes and use the [linear regression model](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) from scikit-learn. We print out the coefficient and intercept. They are almost identical to the result we got from numpy's polyfit() function.
 
 
 ```python
@@ -1586,7 +1562,7 @@ print('The intercept is ' + str(reg.intercept_))
     The intercept is 0.10698243379116967
 
 
-### We can judge the quality of the fit using scikit-learn's $score()$ function. The score is not perfect but definitely not low either.
+### We can judge the quality of the fit using scikit-learn's score() function. The score is not perfect but definitely not low either.
 
 
 ```python
@@ -1624,4 +1600,4 @@ plt.show()
 
 ### Actually, we find that our prediction is, to a great extent, accurate! 
 ## Conclusion
-### In this tutorial, we find out some interesting pattern about the $win\:rate$ and the $goal\:ratio$: $win\:rate$ of a team is linearly proportional to its $goal\:ratio$. We find out that the gap between different football clubs has incrased dramatically over the years. We also use linear regression to model the $win\:rate$ of a few football clubs and get decent results. This allows us to approximate the $win\:rate$ of any team with a high accuracy observing its $goal\:ratio$. If more detailed data is available, we can perhaps look into how players are affecting the team's $win\:rate$, and thus calculate their relative cost efficiency.
+### In this tutorial, we find out some interesting pattern about the win rate and the goal ratio: win rate of a team is linearly proportional to its goal ratio. We find out that the gap between different football clubs has incrased dramatically over the years. We also use linear regression to model the win rate of a few football clubs and get decent results. This allows us to approximate the win rate of any team with a high accuracy observing its goal ratio. If more detailed data is available, we can perhaps look into how players are affecting the team's win rate, and thus calculate their relative cost efficiency.
