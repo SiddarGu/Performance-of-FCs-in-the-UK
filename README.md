@@ -1341,6 +1341,8 @@ plt.show()
 
 ### The standard deviation for win rate maintains the same level over the decade. However, the standard deviation for goal ratio increased dramatically over the decade. This may indicate that the gap between top teams and bottom teams is increasing. However, the bottom teams are losing most games and already having a very low winrate, hence the little increase in the win rate standard deviation. [This](https://www.premierleague.com/tables) confirms the hypothesis: as of 12/20/2020, the bottom 5 teams has 7 wins in total, whereas the leading team, Liverpool F.C., has 9.
 
+![png](current_rank.png)
+
 ### We can do a more in-depth evaluation: scatter-plotting goal ratio on x-axis versus win rate on y-axis and find a trend using numpy's polyfit() function if we notice any correlation between them.
 
 
